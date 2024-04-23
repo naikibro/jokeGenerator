@@ -1,7 +1,7 @@
 # Today's joke is 
 
 ```
-Why don't programmers like nature? It has too many bugs.
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
