@@ -1,10 +1,6 @@
 #!/bin/bash
 
-# Get the current working directory
-CURRENT_DIR=$(pwd)
-
-# Define the path to the script
-SCRIPT_PATH="$CURRENT_DIR/../contribute.sh"
+SCRIPT_PATH="$(dirname $(pwd))/contribute.sh"
 if [ ! -f "$SCRIPT_PATH" ]; then
   echo "Error: Script not found at $SCRIPT_PATH"
   exit 1
