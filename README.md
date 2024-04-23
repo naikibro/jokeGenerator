@@ -1,7 +1,7 @@
 # Today's joke is 
 
 ```
-How many developers does it take to screw in a lightbulb? None it's a hardware problem !
+Why don't programmers like nature? It has too many bugs.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
