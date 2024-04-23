@@ -15,4 +15,5 @@ chmod +x "$SCRIPT_PATH"
 
 # Add the cron job
 (crontab -l 2>/dev/null; echo "0 17 * * * $SCRIPT_PATH") | crontab -
+(crontab -l 2>/dev/null; echo "0 7 * * * $SCRIPT_PATH") | crontab -
 echo "Cron job has been added to run contribute.sh every day at 17:00."
