@@ -1,7 +1,7 @@
 # Today's joke is 
 
 ```
-Why did the IT technician bring a plant to work? He heard it needed more root access!
+Why did the IT technician go to the doctor? He had a case of the computer virus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
