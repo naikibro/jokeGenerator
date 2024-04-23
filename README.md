@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a squirrel? Climb a tree and act like a nut!
+Why did the math book look sad? Because it had too many problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
