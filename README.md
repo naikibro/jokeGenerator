@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the biologist bring a ladder to the bar? Because the drinks were on the top shelf.
+What do you get when you cross a snowman and a vampire? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
