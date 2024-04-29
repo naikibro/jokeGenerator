@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken go to the seance? To talk to the other side.
+What's orange and sounds like a parrot? A carrot.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
