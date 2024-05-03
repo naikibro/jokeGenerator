@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to space? He heard there was a problem with the satellites!
+Why was the math book sad? Because it had too many problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
