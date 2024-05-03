@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
+Why did the IT technician go to space? He heard there was a problem with the satellites!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
