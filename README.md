@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer quit his job? Because he didn't get arrays.
+Why was the centrifuge so popular at the party? It knew how to spin things around.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
