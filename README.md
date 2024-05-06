@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese.
+Why do biologists like to talk about enzymes? Because they're full of energy!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
