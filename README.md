@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don’t scientists trust atoms? Because they make up everything.
+What do you call cheese that isn't yours? Nacho cheese.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
