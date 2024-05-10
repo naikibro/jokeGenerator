@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the fire at the circus? It was in tents.
+Why was the IT technician always tired? Because he worked around the clock.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
