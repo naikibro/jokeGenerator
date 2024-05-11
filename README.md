@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the IT technician always tired? Because he worked around the clock.
+Why did the IT technician get a job at the zoo? He heard they needed someone to debug the monkey business!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
