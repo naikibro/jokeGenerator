@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pile of cats? A meowtain!
+Why did the IT technician join the orchestra? He wanted to troubleshoot the symphony!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
