@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese.
+What do you call an alligator in a vest? An investigator.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
