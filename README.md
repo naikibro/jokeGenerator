@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer go broke? Because he used up all his cache.
+What do you call fake spaghetti? An impasta!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
