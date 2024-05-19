@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the restaurant? To troubleshoot the menu!
+Why did the IT technician bring a screwdriver to work? In case he needed to fix the hardware!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
