@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't fish play basketball? Because they're afraid of the net!
+Why did the bacteria cross the microscope? To get to the other slide.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
