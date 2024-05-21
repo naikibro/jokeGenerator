@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bacteria cross the microscope? To get to the other slide.
+What's a physicist's favorite food? Fission chips.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
