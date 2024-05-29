@@ -22,6 +22,21 @@ Why did the cookie go to the doctor? Because it was feeling crumbly.
 
 ---
 
+# About the Joke generator
+
+I once heard during a job interview that one's Github contributions could tell a lot about the 0x programmer you are
+I started to feel bad as mine wasn't as full as humanly possible
+
+That is when i remembered the `#1 rule of programmers`:
+
+> If you can dream it, you can make a shitty version of it in Javascript !
+
+To never be rejected during a tech job interview, recite the following curse:
+
+- The Internet will never see a world without my commits
+- My commits do not define my value as a human ( but as a programmer, they do !)
+- I will commit to this repo till im bored of buying lambos
+
 ## Run the project
 
 ### 0 - Prerequisites
