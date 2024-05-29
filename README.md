@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician join the orchestra? He wanted to troubleshoot the symphony!
+What do you call a boomerang that doesn’t come back? A stick!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
