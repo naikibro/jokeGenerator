@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a race car driver? He wanted to troubleshoot the fast lane!
+What do you call a tooth in a glass of water? A one molar solution.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
