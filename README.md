@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet.
+What do you call a boomerang that doesn’t come back? A stick!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
