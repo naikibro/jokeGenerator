@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the library? To check out the network of books!
+Why did the IT technician break up with his calculator? It didn't add up anymore.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
