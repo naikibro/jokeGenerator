@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the astronaut break up with her boyfriend? Because he needed space.
+What do you call fake spaghetti? An impasta!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
