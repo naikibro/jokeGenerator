@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call fake spaghetti? An impasta!
+Did you hear about the fire at the circus? It was in tents.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
