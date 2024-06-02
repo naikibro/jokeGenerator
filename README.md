@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the zoo? He wanted to see if they needed help with the network of animals!
+Why did the astronaut break up with her boyfriend? Because he needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
