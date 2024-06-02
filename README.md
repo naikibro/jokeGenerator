@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician break up with his calculator? It didn't add up anymore.
+Why did the IT technician join the orchestra? He wanted to troubleshoot the symphony!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
