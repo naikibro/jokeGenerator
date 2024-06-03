@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call fake spaghetti? An impasta.
+What's a cow's favorite musical note? Beef flat!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
