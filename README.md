@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's a cow's favorite musical note? Beef flat!
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
