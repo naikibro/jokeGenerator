@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the bee's hair always messy? It kept buzzing!
+Why was the math book sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
