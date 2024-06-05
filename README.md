@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a ladder to the bar? He heard the drinks were on the house!
+Why did the IT technician bring a plant to work? He heard it needed more root access!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
