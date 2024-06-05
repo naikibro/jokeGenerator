@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one ocean say to the other ocean? Nothing, they just waved!
+Why did the IT technician break up with his calculator? It didn't add up anymore.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
