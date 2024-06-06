@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the developer go broke? Because he used up all his cache.
+Why did the IT technician get a job at the circus? He heard they needed someone to juggle the servers!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
