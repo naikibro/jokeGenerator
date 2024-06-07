@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do biologists like to talk about enzymes? Because they're full of energy!
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
