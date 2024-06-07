@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bicycle fall over? Because it was two-tired!
+Why do biologists like to talk about enzymes? Because they're full of energy!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
