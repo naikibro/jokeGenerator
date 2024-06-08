@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to art class? To learn how to draw windows!
+How do you catch a squirrel? Climb a tree and act like a nut!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
