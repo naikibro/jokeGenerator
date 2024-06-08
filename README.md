@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a squirrel? Climb a tree and act like a nut!
+What did one ocean say to the other ocean? Nothing, they just waved.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
