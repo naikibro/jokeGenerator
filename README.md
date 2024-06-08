@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get into a fight with his TV? It kept changing the channel!
+Did you hear about the fire at the circus? It was in tents.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
