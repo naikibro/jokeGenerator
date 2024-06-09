@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+Why did the chicken join a band? Because it had the drumsticks!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
