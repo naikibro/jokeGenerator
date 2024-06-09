@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do bananas have to put on sunscreen? Because they peel!
+What do you call fake spaghetti? An impasta.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
