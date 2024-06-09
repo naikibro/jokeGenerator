@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It has too many bugs.
+Why do bananas have to put on sunscreen? Because they peel!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
