@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What’s orange and sounds like a parrot? A carrot!
+Why did the spider go on the computer? It was searching the web!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
