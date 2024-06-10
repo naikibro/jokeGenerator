@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the whale cross the ocean? To get to the other tide!
+What did one plate say to the other plate? Dinner's on me!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
