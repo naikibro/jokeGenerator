@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one plate say to the other plate? Dinner's on me!
+What’s orange and sounds like a parrot? A carrot!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
