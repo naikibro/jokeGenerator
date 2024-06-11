@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What’s orange and sounds like a parrot? A carrot!
+Why was the math book sad? It had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
