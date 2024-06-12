@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+Why did the IT technician get into a fight with his keyboard? It kept giving him backtalk!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
