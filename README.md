@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get locked out of his house? He kept trying the wrong key combination.
+Why did the scarecrow win an award? Because he was outstanding in his field!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
