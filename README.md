@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician keep a baseball bat at his desk? In case he needed to hit the delete key!
+I'm reading a book on anti-gravity. It's impossible to put down!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
