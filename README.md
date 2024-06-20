@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+Why did the cow become an artist? Because it wanted to draw pasture!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
