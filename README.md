@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
+Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
