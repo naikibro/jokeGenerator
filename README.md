@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a tooth in a glass of water? A one molar solution.
+What's orange and sounds like a parrot? A carrot.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
