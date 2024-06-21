@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the developer go broke? Because he used up all his cache.
+What do you call cheese that isn't yours? Nacho cheese!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
