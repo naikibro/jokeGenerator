@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet!
+Why did the IT technician become a comedian? He wanted to debug people's laughter!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
