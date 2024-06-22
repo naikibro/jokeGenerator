@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't ants get sick? Because they have tiny ant-bodies!
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
