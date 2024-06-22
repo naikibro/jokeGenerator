@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+Why don't ants get sick? Because they have tiny ant-bodies!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
