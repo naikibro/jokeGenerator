@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I told my wife she was drawing her eyebrows too high. She looked surprised.
+What's orange and sounds like a parrot? A carrot.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
