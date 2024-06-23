@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the developer go broke? Because he used up all his cache.
+Why was the IT technician always calm? Because he had Ctrl and Alt under control.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
