@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the IT technician always calm? Because he had Ctrl and Alt under control.
+Why don't crabs give to charity? Because they're shellfish!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
