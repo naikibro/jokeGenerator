@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese.
+Why did the scarecrow win an award? Because he was outstanding in his field.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
