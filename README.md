@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+Why did the programmer quit his job? Because he didn't get arrays.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
