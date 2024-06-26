@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call an alligator in a vest? An investigator.
+Why did the IT technician go to the doctor? He had a case of the computer virus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
