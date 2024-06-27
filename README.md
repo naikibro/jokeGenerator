@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the bee's hair always messy? It kept buzzing!
+Why don't skeletons fight each other? They don't have the guts.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
