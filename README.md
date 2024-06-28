@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cookie go to the doctor? Because it was feeling crumbly.
+What did one wall say to the other wall? "I'll meet you at the corner."
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
