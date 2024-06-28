@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a screwdriver to work? In case he needed to fix the hardware!
+What do you call a fly without wings? A walk!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
