@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a fly without wings? A walk!
+What do you call a tooth in a glass of water? A one molar solution.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
