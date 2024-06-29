@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the biologist bring a ladder to the bar? Because the drinks were on the top shelf.
+Why did the bacteria cross the microscope? To get to the other slide.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
