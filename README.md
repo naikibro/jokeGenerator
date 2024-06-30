@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the doctor? He had a case of the byte-me virus!
+Why did the chicken sit on the clock? Because it wanted to be on time!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
