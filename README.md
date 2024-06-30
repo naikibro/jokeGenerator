@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician always carry a mirror? To reflect on his problems!
+Why don't programmers like nature? It has too many bugs.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
