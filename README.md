@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+What's the difference between an oral and a rectal thermometer? The taste.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
