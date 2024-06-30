@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken sit on the clock? Because it wanted to be on time!
+Why did the IT technician always carry a mirror? To reflect on his problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
