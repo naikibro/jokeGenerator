@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the farm? To troubleshoot the root vegetables!
+Why did the math book look sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
