@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a comedian? He wanted to debug people's laughter!
+Why did the math book look sad? Because it had too many problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
