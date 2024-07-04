@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician join the orchestra? He wanted to troubleshoot the symphony!
+Why did the chicken join a band? Because it had the drumsticks!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
