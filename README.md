@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a sheep with no legs? A cloud!
+Why can't you trust an atom? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
