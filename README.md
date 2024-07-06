@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts!
+What do you call a deer with no eyes? No eye-deer!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
