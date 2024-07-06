@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snake and a pie? A python!
+Why did the IT technician become a detective? He wanted to solve the case of the missing files!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
