@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a comedian? He wanted to debug people's laughter!
+How do you organize a space party? You planet!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
