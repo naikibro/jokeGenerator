@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+What's a physicist's favorite food? Fission chips.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
