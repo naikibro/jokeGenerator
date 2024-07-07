@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the biologist wear to impress their date? Designer genes.
+Why did the IT technician become a musician? He wanted to troubleshoot the rhythm section!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
