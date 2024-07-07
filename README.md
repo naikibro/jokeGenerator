@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's a physicist's favorite food? Fission chips.
+Why did the IT technician go to the restaurant? To troubleshoot the menu!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
