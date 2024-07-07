@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the restaurant? To troubleshoot the menu!
+What did the biologist wear to impress their date? Designer genes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
