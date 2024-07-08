@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't seagulls fly over the bay? Because then they'd be called bagels!
+What do you call a pile of cats? A meowtain.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
