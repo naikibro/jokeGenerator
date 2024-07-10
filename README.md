@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a lifeguard? He wanted to troubleshoot the pool of problems!
+Why was the math book sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
