@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? Because it had too many problems.
+What did one ocean say to the other ocean? Nothing, they just waved!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
