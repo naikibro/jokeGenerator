@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? It had too many problems.
+Did you hear about the famous microbiologist who visited 30 different countries and spoke 6 languages? He was a man of many cultures.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
