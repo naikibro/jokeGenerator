@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What does a cloud wear under his raincoat? Thunderwear!
+Why did the whale cross the ocean? To get to the other tide!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
