@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the pony get sent to its room? It wouldn't stop horsing around!
+What does a cloud wear under his raincoat? Thunderwear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
