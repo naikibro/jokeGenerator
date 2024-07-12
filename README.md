@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no ears? B!
+What's a cow's favorite musical note? Beef flat!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
