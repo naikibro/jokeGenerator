@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet.
+Why did the IT technician always carry a mirror? To reflect on his problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
