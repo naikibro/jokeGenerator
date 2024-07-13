@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a pencil to the server room? In case he needed to draw a network!
+Why did the IT technician get into a fight with his printer? It kept jamming up the conversation!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
