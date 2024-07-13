@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the fire at the circus? It was in tents.
+Why did the IT technician go to the zoo? He wanted to see if they needed help with the network of animals!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
