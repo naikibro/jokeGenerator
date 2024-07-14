@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together.
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
