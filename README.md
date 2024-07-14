@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a hammer to work? He heard there was a hardware problem!
+How does a penguin build its house? Igloos it together.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
