@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cat sit on the computer? To keep an eye on the mouse!
+Why did the proton bring the electron to the party? Because it had a positive charge.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
