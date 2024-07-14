@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a musician? He wanted to troubleshoot the rhythm section!
+Why did the IT technician go to art class? To learn how to draw windows!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
