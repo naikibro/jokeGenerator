@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do bananas have to put on sunscreen? Because they peel!
+What do you call a bear with no ears? B!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
