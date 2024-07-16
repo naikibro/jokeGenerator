@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+Did you hear about the claustrophobic astronaut? He needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
