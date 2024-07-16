@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the claustrophobic astronaut? He needed space.
+What do you get when you cross a snowman and a vampire? Frostbite!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
