@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a ladder to work? Because he heard the server was on the cloud!
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
