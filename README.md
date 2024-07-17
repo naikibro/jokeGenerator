@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician stay away from the ocean? He was afraid of the ethernet shark!
+Why was the centrifuge so popular at the party? It knew how to spin things around.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
