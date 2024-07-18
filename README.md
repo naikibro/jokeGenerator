@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a lifeguard? He wanted to troubleshoot the pool of problems!
+What do you call a can opener that doesn’t work? A can’t opener!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
