@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a can opener that doesn’t work? A can’t opener!
+What do you get when you cross a snake and a pie? A python!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
