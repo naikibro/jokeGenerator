@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman with a dog? Frostbite.
+Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
