@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a vampire? Frostbite!
+What do you call a pile of cats? A meowtain!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
