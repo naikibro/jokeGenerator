@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the microbiologist stay home from the party? He had bacterial culture.
+What do you call a periodic table with gold missing? "Au revoir."
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
