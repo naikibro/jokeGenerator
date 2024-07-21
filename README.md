@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow go to outer space? It wanted to see the moooon!
+Why did the pony get sent to its room? It wouldn't stop horsing around!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
