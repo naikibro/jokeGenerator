@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the doctor? He had a case of the byte-me virus!
+Why did the bicycle fall over? Because it was two-tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
