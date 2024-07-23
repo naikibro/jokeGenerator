@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the whale cross the ocean? To get to the other tide!
+Why couldn't the bicycle stand up by itself? It was two-tired.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
