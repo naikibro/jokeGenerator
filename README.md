@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a race car driver? He wanted to troubleshoot the fast lane!
+How does a penguin build its house? Igloos it together.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
