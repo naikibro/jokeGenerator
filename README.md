@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one ocean say to the other ocean? Nothing, they just waved.
+Why did the IT technician become a race car driver? He wanted to troubleshoot the fast lane!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
