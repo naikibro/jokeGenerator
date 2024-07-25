@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together.
+What did the grape say when the elephant stepped on it? Nothing, it just let out a little wine!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
