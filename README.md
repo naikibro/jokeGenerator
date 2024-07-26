@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a hammer to work? He heard there was a hardware problem!
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
