@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the photon check into a hotel? Because it was traveling light.
+Why was the IT technician always calm? Because he had Ctrl and Alt under control.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
