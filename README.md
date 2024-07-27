@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the famous microbiologist who visited 30 different countries and spoke 6 languages? He was a man of many cultures.
+What's a physicist's favorite food? Fission chips.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
