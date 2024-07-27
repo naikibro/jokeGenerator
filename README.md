@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one plate say to the other plate? Dinner's on me!
+Why did the IT technician go to the farm? To troubleshoot the root vegetables!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
