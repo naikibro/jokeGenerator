@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician break up with his smartphone? It kept dropping the call!
+How do you catch a unique rabbit? Unique up on it!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
