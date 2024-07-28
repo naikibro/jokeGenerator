@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one wall say to the other wall? "I'll meet you at the corner."
+What did the biologist wear to impress their date? Designer genes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
