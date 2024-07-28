@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the biologist wear to impress their date? Designer genes.
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
