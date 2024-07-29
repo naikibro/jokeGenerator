@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do biologists like to talk about enzymes? Because they're full of energy!
+Why did the IT technician become a comedian? He wanted to debug people's laughter!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
