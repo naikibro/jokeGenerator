@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a unique rabbit? Unique up on it!
+Why did the IT technician bring a plant to work? He heard it needed more root access!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
