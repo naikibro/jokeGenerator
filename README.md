@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one ocean say to the other ocean? Nothing, they just waved.
+Why did the IT technician always carry a mirror? To reflect on his problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
