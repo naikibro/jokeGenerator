@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear.
+How do you catch a unique rabbit? Unique up on it!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
