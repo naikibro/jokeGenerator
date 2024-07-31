@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a unique rabbit? Unique up on it!
+Why did the chicken go to the seance? To talk to the other side.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
