@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's the difference between an oral and a rectal thermometer? The taste.
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
