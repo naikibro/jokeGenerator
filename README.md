@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't ants get sick? Because they have tiny ant-bodies!
+What do you call a deer with no eyes? No eye-deer!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
