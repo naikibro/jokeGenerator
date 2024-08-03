@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? Because it had too many problems.
+What do you call a snowman with a six-pack? An abdominal snowman.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
