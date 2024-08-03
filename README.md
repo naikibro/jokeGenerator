@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a deer with no eyes? No eye-deer!
+Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
