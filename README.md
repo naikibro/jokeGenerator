@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a snowman with a six-pack? An abdominal snowman.
+Why was the math book sad? It had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
