@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet!
+Why did the chicken go to the seance? To talk to the other side.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
