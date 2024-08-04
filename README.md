@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the library? To check out the network of books!
+What did one ocean say to the other ocean? Nothing, they just waved.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
