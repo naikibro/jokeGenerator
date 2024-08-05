@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the microbiologist stay home from the party? He had bacterial culture.
+Why did the cat sit on the computer? It wanted to keep an eye on the mouse!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
