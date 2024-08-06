@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a squirrel? Climb a tree and act like a nut!
+What do you call a tooth in a glass of water? A one molar solution.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
