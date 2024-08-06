@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a ladder to the bar? He heard the drinks were on the house!
+Why did the IT technician go to the farm? To troubleshoot the root vegetables!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
