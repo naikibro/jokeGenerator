@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the bee's hair always messy? It kept buzzing!
+How do you make a cat happy? Give it some purr-spective!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
