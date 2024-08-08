@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the biologist wear to impress their date? Designer genes.
+What do you call a bear with no teeth? A gummy bear.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
