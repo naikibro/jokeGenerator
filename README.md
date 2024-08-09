@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pile of cats? A meowtain!
+Why was the belt arrested? For holding up a pair of pants.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
