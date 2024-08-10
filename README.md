@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? It had too many problems.
+Why did the IT technician get a job at the circus? He heard they needed someone to juggle the servers!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
