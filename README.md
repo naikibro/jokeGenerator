@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+What do you call an alligator in a vest? An investigator!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
