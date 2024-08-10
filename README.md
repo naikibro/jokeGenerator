@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow go to outer space? It wanted to see the moooon!
+What do you call a boomerang that doesn’t come back? A stick!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
