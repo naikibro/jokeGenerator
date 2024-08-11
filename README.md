@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What does a cloud wear under his raincoat? Thunderwear!
+Why did the photon check into a hotel? Because it was traveling light.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
