@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the developer go broke? Because he used up all his cache.
+Why did the bear dissolve in water? Because it was polar.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
