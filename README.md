@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bicycle fall over? It was two tired!
+Why did the developer go broke? Because he used up all his cache.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
