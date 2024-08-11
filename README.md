@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the photon check into a hotel? Because it was traveling light.
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
