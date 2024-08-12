@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+Why do biologists like to talk about enzymes? Because they're full of energy!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
