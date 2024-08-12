@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do biologists like to talk about enzymes? Because they're full of energy!
+Why was the math book sad? It had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
