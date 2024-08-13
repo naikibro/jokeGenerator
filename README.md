@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It has too many bugs.
+Why did the IT technician bring a screwdriver to work? In case he needed to fix the hardware!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
