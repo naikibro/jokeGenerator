@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I told my wife she was drawing her eyebrows too high. She looked surprised.
+Why don't programmers like nature? It has too many bugs.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
