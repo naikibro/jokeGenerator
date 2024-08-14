@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why can't you trust an atom? Because they make up everything!
+What do you call a dinosaur with an extensive vocabulary? A thesaurus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
