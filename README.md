@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a screwdriver to work? In case he needed to fix the hardware!
+Why can't you trust an atom? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
