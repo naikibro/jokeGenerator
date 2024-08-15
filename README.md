@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a plant to work? He heard it needed more root access!
+Why did the cookie go to the hospital? Because he felt crummy.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
