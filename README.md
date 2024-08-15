@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a squirrel? Climb a tree and act like a nut!
+Why did the IT technician bring a plant to work? He heard it needed more root access!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
