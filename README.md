@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Why can't you trust an atom? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
