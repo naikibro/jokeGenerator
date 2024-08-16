@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why can't you trust an atom? Because they make up everything!
+Why did the IT technician go to the library? To check out the network of books!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
