@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bicycle fall over? It was two tired!
+Why did the koala fall out of the tree? Because it was eucalyptus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
