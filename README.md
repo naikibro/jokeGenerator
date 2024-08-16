@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cookie go to the hospital? Because he felt crummy.
+Why did the bicycle fall over? It was two tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
