@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a vampire? Frostbite.
+Why did the IT technician join the orchestra? He wanted to troubleshoot the symphony!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
