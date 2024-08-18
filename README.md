@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer quit his job? Because he didn't get arrays.
+Why did the spider go on the computer? It was searching the web!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
