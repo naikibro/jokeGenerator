@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician join the orchestra? He wanted to troubleshoot the symphony!
+Why do biologists like to talk about enzymes? Because they're full of energy!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
