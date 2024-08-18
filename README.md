@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a chef? He wanted to troubleshoot the recipe for success!
+Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
