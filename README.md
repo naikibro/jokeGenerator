@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
+Why did the IT technician bring a ladder to work? Because he heard the server was on the cloud!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
