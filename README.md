@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a plant to work? He heard it needed more root access!
+Why don't skeletons fight each other? They don't have the guts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
