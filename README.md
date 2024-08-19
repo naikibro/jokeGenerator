@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the spider go on the computer? It was searching the web!
+Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
