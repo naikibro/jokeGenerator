@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one wall say to the other wall? "I'll meet you at the corner."
+Why did the IT technician become a musician? He wanted to troubleshoot the rhythm section!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
