@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician always carry a mirror? To reflect on his problems!
+Why did the IT technician become a pilot? He wanted to troubleshoot the flight plan!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
