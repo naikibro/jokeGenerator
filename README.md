@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a musician? He wanted to troubleshoot the rhythm section!
+Why did the IT technician always carry a mirror? To reflect on his problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
