@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet!
+Why did the bicycle fall over? Because it was two-tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
