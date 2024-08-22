@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the developer go broke? Because he used up all his cache.
+Why did the programmer quit his job? Because he didn't get arrays.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
