@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I told my computer I needed a break. Now it won't stop sending me vacation ads.
+Why did the spider go on the computer? It was searching the web!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
