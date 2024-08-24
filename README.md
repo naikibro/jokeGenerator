@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear.
+Why did the cow become an artist? Because it wanted to draw pasture!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
