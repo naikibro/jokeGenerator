@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken go to the seance? To talk to the other side.
+What do you call a bear with no teeth? A gummy bear.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
