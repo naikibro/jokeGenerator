@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physics professor break up with the biology professor? There was no chemistry.
+Why did the whale cross the ocean? To get to the other tide!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
