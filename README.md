@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+Why did the physics professor break up with the biology professor? There was no chemistry.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
