@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call fake spaghetti? An impasta!
+Why did the bicycle fall over? It was two tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
