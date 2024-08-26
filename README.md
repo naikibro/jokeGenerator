@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cat sit on the computer? It wanted to keep an eye on the mouse!
+Why did the spider go on the computer? It was searching the web!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
