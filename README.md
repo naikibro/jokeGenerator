@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer go broke? Because he used up all his cache.
+What is the most important rule in chemistry? Never lick the spoon!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
