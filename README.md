@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear!
+Why did the cat sit on the computer? To keep an eye on the mouse!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
