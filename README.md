@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get a job at the circus? He heard they needed someone to juggle the servers!
+Why couldn't the leopard play hide and seek? Because he was always spotted.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
