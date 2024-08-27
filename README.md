@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the leopard play hide and seek? Because he was always spotted.
+How does a penguin build its house? Igloos it together!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
