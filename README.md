@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the biologist bring a ladder to the bar? Because the drinks were on the top shelf.
+Why did the white blood cell cross the road? To get to the other side of the bloodstream.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
