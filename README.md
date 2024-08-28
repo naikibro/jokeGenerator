@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the white blood cell cross the road? To get to the other side of the bloodstream.
+Why did the programmer quit his job? Because he didn't get arrays.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
