@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a fake noodle? An impasta.
+Why did the IT technician go to the beach? To surf the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
