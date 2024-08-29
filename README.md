@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Why don’t skeletons fight each other? They don’t have the guts.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
