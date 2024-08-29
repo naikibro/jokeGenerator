@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the developer go broke? Because he used up all his cache.
+What did one plate say to the other plate? Dinner is on me!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
