@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one plate say to the other plate? Dinner is on me!
+Why don't scientists trust atoms? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
