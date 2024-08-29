@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the white blood cell cross the road? To get to the other side of the bloodstream.
+Why did the cat sit on the computer? To keep an eye on the mouse!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
