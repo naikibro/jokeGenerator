@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
+Why did the IT technician bring a ladder to the bar? He heard the drinks were on the house!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
