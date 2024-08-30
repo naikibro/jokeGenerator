@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a ladder to the bar? He heard the drinks were on the house!
+What do you call a fish with no eyes? Fsh.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
