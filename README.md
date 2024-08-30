@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
+How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
