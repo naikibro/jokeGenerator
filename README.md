@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician break up with his smartphone? It kept dropping the call!
+Why did the bicycle fall over? Because it was two-tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
