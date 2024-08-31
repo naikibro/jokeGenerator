@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bicycle fall over? Because it was two-tired!
+Why couldn't the bicycle stand up by itself? It was two-tired.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
