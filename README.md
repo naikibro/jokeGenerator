@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the bicycle stand up by itself? It was two-tired.
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
