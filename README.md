@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a detective? He wanted to solve the case of the missing files!
+Why did the developer go broke? Because he used up all his cache.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
