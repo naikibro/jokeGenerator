@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
+What do you call cheese that isn't yours? Nacho cheese.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
