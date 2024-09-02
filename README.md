@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a screwdriver to work? In case he needed to fix the hardware!
+Why did the physics professor break up with the biology professor? There was no chemistry.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
