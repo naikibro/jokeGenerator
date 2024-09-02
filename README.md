@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+What do you call a tooth in a glass of water? A one molar solution.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
