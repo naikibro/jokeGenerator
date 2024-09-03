@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician join the orchestra? He wanted to troubleshoot the symphony!
+How does a penguin build its house? Igloos it together.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
