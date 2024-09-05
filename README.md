@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call an alligator in a vest? An investigator.
+What do you call fake spaghetti? An impasta.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
