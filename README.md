@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's a cow's favorite musical note? Beef flat!
+Why did the IT technician keep a baseball bat at his desk? In case he needed to hit the delete key!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
