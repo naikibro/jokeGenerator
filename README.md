@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician keep a baseball bat at his desk? In case he needed to hit the delete key!
+Why was the math book sad? It had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
