@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? It had too many problems.
+Why did the physicist go to the beach? Because he wanted to test the water!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
