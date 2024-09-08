@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician sit on the clock? He wanted to be on time!
+Did you hear about the famous microbiologist who visited 30 different countries and spoke 6 languages? He was a man of many cultures.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
