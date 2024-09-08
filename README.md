@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+Why did the physics professor break up with the biology professor? There was no chemistry.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
