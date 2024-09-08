@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the grape say when the elephant stepped on it? Nothing, it just let out a little wine!
+Why did the IT technician go to art class? To learn how to draw windows!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
