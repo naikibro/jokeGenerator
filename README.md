@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer go broke? Because he used up all his cache.
+Why did the IT technician go to the beach? To surf the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
