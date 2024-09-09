@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese.
+Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
