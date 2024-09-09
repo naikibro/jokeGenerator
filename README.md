@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+Why did the IT technician bring a map to work? He didn't want to get lost in the coding wilderness!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
