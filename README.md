@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
+What's a physicist's favorite food? Fission chips.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
