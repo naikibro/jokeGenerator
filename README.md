@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's a physicist's favorite food? Fission chips.
+What do you call a pile of cats? A meowtain.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
