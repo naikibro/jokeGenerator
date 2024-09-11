@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+What do you call a tooth in a glass of water? A one molar solution.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
