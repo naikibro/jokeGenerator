@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do we never tell secrets on a farm? Because the potatoes have eyes and the corn has ears!
+Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
