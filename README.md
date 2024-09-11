@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pile of cats? A meowtain.
+Why do we never tell secrets on a farm? Because the potatoes have eyes and the corn has ears!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
