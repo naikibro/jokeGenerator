@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+Why did the chicken sit on the clock? Because it wanted to be on time!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
