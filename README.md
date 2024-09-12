@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the centrifuge so popular at the party? It knew how to spin things around.
+Why don’t scientists trust atoms? Because they make up everything.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
