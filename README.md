@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+Why did the white blood cell cross the road? To get to the other side of the bloodstream.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
