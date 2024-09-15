@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a dog? Frostbite.
+How do you catch a unique rabbit? Unique up on it!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
