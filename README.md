@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a unique rabbit? Unique up on it!
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
