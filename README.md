@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? It had too many problems.
+What do you get when you cross a snowman and a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
