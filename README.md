@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the white blood cell cross the road? To get to the other side of the bloodstream.
+Why did the proton bring the electron to the party? Because it had a positive charge.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
