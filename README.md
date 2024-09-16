@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the biologist wear to impress their date? Designer genes.
+What do you get when you cross a snowman with a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
