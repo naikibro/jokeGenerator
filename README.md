@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese.
+What did the biologist wear to impress their date? Designer genes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
