@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the proton bring the electron to the party? Because it had a positive charge.
+Why did the IT technician bring a ladder to the bar? He heard the drinks were on the house!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
