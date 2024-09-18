@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snake and a pie? A python!
+What do you call a cow with no legs? Ground beef!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
