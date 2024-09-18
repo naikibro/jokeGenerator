@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get promoted? Because he knew how to CTRL his career!
+How do you make a tissue dance? You put a little boogie in it!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
