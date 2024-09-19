@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get if you cross a cat with a dark horse? Kitty Perry!
+Why did the spider go on the computer? It was searching the web!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
