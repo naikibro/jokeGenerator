@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a boomerang that doesn’t come back? A stick!
+What do you get if you cross a cat with a dark horse? Kitty Perry!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
