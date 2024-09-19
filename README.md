@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's a physicist's favorite food? Fission chips.
+Why did the IT technician become a plumber? He wanted to troubleshoot the pipes!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
