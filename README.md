@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the leopard play hide and seek? Because he was always spotted.
+Why don't scientists trust atoms? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
