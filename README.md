@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a plant to work? He heard it needed more root access!
+Why did the white blood cell cross the road? To get to the other side of the bloodstream.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
