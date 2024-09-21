@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the claustrophobic astronaut? He needed space.
+Why did the IT technician bring a plant to work? He heard it needed more root access!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
