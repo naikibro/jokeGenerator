@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one plate say to the other plate? Dinner is on me!
+What did the grape say when the elephant stepped on it? Nothing, it just let out a little wine!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
