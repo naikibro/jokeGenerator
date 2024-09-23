@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the developer go broke? Because he used up all his cache.
+Why did the IT technician bring a hammer to work? He heard there was a hardware problem!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
