@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the photon check into a hotel? Because it was traveling light.
+Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
