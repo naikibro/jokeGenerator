@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a periodic table with gold missing? "Au revoir."
+Why was the math book sad? It had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
