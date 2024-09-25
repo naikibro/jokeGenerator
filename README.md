@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bicycle fall over? Because it was two-tired!
+What do you call a periodic table with gold missing? "Au revoir."
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
