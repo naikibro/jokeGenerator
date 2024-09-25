@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? It had too many problems.
+Why did the photon check into a hotel? Because it was traveling light.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
