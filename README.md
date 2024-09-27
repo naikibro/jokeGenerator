@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a comedian? He wanted to debug people's laughter!
+Why did the IT technician bring a plant to work? He heard it needed more root access!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
