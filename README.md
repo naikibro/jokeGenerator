@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the biologist bring a ladder to the bar? Because the drinks were on the top shelf.
+What do you call a fish with no eyes? Fsh.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
