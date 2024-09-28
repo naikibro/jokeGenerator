@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I told my computer I needed a break. Now it won't stop sending me vacation ads.
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
