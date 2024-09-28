@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cat sit on the computer? It wanted to keep an eye on the mouse!
+I told my computer I needed a break. Now it won't stop sending me vacation ads.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
