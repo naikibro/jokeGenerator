@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the claustrophobic astronaut? He needed space.
+Why did the golfer bring two pairs of pants? In case he got a hole in one!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
