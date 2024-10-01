@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
