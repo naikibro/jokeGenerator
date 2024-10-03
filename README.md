@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a comedian? He wanted to debug people's laughter!
+Why don't fish play basketball? Because they're afraid of the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
