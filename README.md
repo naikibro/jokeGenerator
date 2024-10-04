@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a dinosaur with an extensive vocabulary? A thesaurus!
+Why did the chicken join a band? Because it had the drumsticks!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
