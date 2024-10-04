@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What is the most important rule in chemistry? Never lick the spoon!
+Why did the bacteria cross the microscope? To get to the other slide.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
