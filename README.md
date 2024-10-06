@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+I'm reading a book on anti-gravity. It's impossible to put down!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
