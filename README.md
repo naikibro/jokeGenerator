@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
+What do you call fake spaghetti? An impasta.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
