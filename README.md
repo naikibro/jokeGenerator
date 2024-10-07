@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the scarecrow win an award? Because he was outstanding in his field.
+How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
