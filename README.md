@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the microbiologist stay home from the party? He had bacterial culture.
+Why did the IT technician stay away from the ocean? He was afraid of the ethernet shark!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
