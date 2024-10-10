@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a plant to work? He heard it needed more root access!
+What did the grape say when the elephant stepped on it? Nothing, it just let out a little wine!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
