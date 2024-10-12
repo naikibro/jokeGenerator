@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bicycle fall over? Because it was two-tired!
+Why was the IT technician always tired? Because he worked around the clock.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
