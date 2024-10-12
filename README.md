@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the IT technician always tired? Because he worked around the clock.
+Why did the horse go behind the tree? To change its jockeys!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
