@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the horse go behind the tree? To change its jockeys!
+Why don't oysters donate to charity? Because they're shellfish!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
