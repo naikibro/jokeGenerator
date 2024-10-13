@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a screwdriver to work? In case he needed to fix the hardware!
+What is the most important rule in chemistry? Never lick the spoon!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
