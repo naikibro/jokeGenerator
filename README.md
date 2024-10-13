@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts.
+Why did the IT technician bring a pencil to the server room? In case he needed to draw a network!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
