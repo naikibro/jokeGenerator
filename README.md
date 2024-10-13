@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a pencil to the server room? In case he needed to draw a network!
+Why did the whale cross the ocean? To get to the other tide!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
