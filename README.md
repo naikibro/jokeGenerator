@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a boomerang that doesn’t come back? A stick!
+Why don't scientists trust atoms? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
