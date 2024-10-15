@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Why did the IT technician break up with his smartphone? It kept dropping the call!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
