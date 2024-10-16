@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+Why did the cat sit on the computer? It wanted to keep an eye on the mouse!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
