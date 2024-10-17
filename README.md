@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the microbiologist stay home from the party? He had bacterial culture.
+Why did the cookie go to the hospital? Because he felt crummy.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
