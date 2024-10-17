@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cookie go to the hospital? Because he felt crummy.
+Why did the cat sit on the computer? It wanted to keep an eye on the mouse!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
