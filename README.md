@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a vampire? Frostbite.
+Why did the bicycle fall over? It was two tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
