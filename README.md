@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the bicycle stand up by itself? It was two-tired.
+Why did the biologist bring a ladder to the bar? Because the drinks were on the top shelf.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
