@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? It had too many problems.
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
