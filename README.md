@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
