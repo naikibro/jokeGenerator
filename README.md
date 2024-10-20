@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together.
+Why did the IT technician go to the restaurant? To troubleshoot the menu!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
