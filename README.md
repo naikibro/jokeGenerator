@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer go broke? Because he used up all his cache.
+What's the difference between an oral and a rectal thermometer? The taste.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
