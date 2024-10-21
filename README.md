@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow go to outer space? It wanted to see the moooon!
+What's a cow's favorite musical note? Beef flat!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
