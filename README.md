@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a unique rabbit? Unique up on it!
+Why was the IT technician always calm? Because he had Ctrl and Alt under control.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
