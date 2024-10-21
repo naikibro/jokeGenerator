@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the restaurant? To troubleshoot the menu!
+What do you call a sheep with no legs? A cloud!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
