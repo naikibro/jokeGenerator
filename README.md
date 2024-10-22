@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts!
+Why did the IT technician go to the beach? To surf the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
