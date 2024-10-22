@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+Why don't skeletons fight each other? They don't have the guts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
