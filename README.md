@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the math book look sad? Because it had too many problems!
+Why did the biologist bring a ladder to the bar? Because the drinks were on the top shelf.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
