@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+Why did the IT technician get kicked out of the art gallery? He tried to upgrade the paintings!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
