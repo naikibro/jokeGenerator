@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the farm? To troubleshoot the root vegetables!
+Why was the belt arrested? For holding up a pair of pants.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
