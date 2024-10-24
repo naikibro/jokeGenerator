@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get kicked out of the art gallery? He tried to upgrade the paintings!
+Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
