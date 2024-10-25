@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician sit on the clock? He wanted to be on time!
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
