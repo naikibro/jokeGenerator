@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the belt arrested? For holding up a pair of pants.
+How does a penguin build its house? Igloos it together!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
