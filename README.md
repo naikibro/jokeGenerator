@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a plumber? He wanted to troubleshoot the pipes!
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
