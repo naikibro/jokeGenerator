@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the developer go broke? Because he used up all his cache.
+What do you get when you cross a snowman with a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
