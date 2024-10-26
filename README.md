@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the developer go broke? Because he used up all his cache.
+Why did the IT technician become a plumber? He wanted to troubleshoot the pipes!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
