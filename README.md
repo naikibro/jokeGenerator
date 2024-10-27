@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+Why did the IT technician keep a baseball bat at his desk? In case he needed to hit the delete key!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
