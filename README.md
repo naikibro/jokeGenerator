@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the turtle cross the road? To get to the shell station!
+What's orange and sounds like a parrot? A carrot.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
