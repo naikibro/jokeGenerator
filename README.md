@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the IT technician always tired? Because he worked around the clock.
+Why did the IT technician go to the doctor? He had a case of the computer virus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
