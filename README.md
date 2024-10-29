@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a hammer to work? He heard there was a hardware problem!
+Why was the IT technician always tired? Because he worked around the clock.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
