@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+How do you make a cat happy? Give it some purr-spective!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
