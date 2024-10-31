@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you make a cat happy? Give it some purr-spective!
+What do you call a pile of cats? A meowtain.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
