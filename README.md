@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physicist go to the beach? Because he wanted to test the water!
+Why did the spider go on the computer? It was searching the web!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
