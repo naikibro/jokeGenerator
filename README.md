@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician break up with his smartphone? It kept dropping the call!
+Why was the belt arrested? For holding up a pair of pants.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
