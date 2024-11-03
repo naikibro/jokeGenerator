@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the belt arrested? For holding up a pair of pants.
+Why don't plants play hide and seek? Because they always leaf too soon.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
