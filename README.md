@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken sit on the clock? Because it wanted to be on time!
+What do you call fake spaghetti? An impasta!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
