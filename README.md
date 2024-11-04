@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It has too many bugs.
+Why did the IT technician go to the library? To check out the network of books!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
