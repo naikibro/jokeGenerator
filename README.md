@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's the difference between an oral and a rectal thermometer? The taste.
+Why don't programmers like nature? It has too many bugs.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
