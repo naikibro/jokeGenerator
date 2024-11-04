@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't plants play hide and seek? Because they always leaf too soon.
+What's the difference between an oral and a rectal thermometer? The taste.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
