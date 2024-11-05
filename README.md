@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the IT technician always calm? Because he had Ctrl and Alt under control.
+Why did the IT technician go to the library? To check out the network of books!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
