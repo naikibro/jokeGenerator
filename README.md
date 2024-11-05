@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the centrifuge so popular at the party? It knew how to spin things around.
+Why was the IT technician always calm? Because he had Ctrl and Alt under control.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
