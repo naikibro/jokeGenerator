@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pile of cats? A meowtain!
+What did the biologist wear to impress their date? Designer genes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
