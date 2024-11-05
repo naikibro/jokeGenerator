@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together.
+Why was the centrifuge so popular at the party? It knew how to spin things around.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
