@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow become an artist? Because it wanted to draw pasture!
+Why did the astronaut break up with her boyfriend? Because he needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
