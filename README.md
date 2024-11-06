@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the astronaut break up with her boyfriend? Because he needed space.
+Why did the bicycle fall over? Because it was two-tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
