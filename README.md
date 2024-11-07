@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the spider go on the computer? It was searching the web!
+What's a physicist's favorite food? Fission chips.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
