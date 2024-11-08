@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the fire at the circus? It was in tents.
+Why did the cat sit on the computer? To keep an eye on the mouse!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
