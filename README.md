@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It has too many bugs.
+What do you call a fish with no eyes? Fsh.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
