@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? Because it had too many problems!
+Why did the chicken sit on the clock? Because it wanted to be on time!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
