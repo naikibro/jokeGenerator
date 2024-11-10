@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What is the most important rule in chemistry? Never lick the spoon!
+What do you call a dinosaur with an extensive vocabulary? A thesaurus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
