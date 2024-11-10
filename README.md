@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a fish with no eyes? Fsh.
+Why did the scarecrow win an award? Because he was outstanding in his field.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
