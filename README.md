@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a dinosaur with an extensive vocabulary? A thesaurus!
+What do you get if you cross a cat with a dark horse? Kitty Perry!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
