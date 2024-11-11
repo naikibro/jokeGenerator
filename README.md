@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet.
+How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
