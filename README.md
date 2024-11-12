@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get promoted? Because he knew how to CTRL his career!
+Why did the scarecrow win an award? Because he was outstanding in his field!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
