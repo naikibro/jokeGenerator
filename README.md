@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+Why did the cow go to outer space? It wanted to see the moooon!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
