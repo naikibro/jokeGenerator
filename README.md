@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese.
+What did one ocean say to the other ocean? Nothing, they just waved!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
