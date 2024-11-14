@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet.
+I told my computer I needed a break. Now it won't stop sending me vacation ads.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
