@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a race car driver? He wanted to troubleshoot the fast lane!
+What's the difference between a cat and a comma? One has claws at the end of its paws, and the other is a pause at the end of a clause.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
