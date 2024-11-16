@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the doctor? He had a case of the byte-me virus!
+Why don't skeletons fight each other? They don't have the guts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
