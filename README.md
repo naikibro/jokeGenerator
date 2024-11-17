@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the centrifuge so popular at the party? It knew how to spin things around.
+How do you make a cat happy? Give it some purr-spective!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
