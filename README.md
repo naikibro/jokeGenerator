@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken join a band? Because it had the drumsticks!
+What do you call a pile of cats? A meowtain!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
