@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
+Why did the chicken join a band? Because it had the drumsticks!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
