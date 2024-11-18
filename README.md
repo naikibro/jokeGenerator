@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you make a cat happy? Give it some purr-spective!
+Why did the scarecrow win an award? Because he was outstanding in his field!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
