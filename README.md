@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one ocean say to the other ocean? Nothing, they just waved.
+What's the difference between a cat and a comma? One has claws at the end of its paws, and the other is a pause at the end of a clause.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
