@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the math book look sad? Because it had too many problems.
+Why did the programmer go broke? Because he used up all his cache.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
