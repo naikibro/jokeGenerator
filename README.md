@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+Why did the astronaut break up with her boyfriend? Because he needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
