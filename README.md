@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the centrifuge so popular at the party? It knew how to spin things around.
+Why did the IT technician get kicked out of the art gallery? He tried to upgrade the paintings!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
