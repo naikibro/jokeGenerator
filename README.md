@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a chef? He wanted to troubleshoot the recipe for success!
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
