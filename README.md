@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
+Why do we never tell secrets on a farm? Because the potatoes have eyes and the corn has ears!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
