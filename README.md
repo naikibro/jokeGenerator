@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do we never tell secrets on a farm? Because the potatoes have eyes and the corn has ears!
+Why did the IT technician become a chef? He wanted to troubleshoot the recipe for success!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
