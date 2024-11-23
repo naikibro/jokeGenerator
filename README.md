@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
