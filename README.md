@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+Why don't plants play hide and seek? Because they always leaf too soon.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
