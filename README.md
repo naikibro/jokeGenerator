@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bicycle fall over? Because it was two-tired!
+What do you call a sleeping bull? A bulldozer!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
