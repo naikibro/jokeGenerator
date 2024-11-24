@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken join a band? Because it had the drumsticks!
+Why did the bicycle fall over? Because it was two-tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
