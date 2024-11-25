@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a sheep with no legs? A cloud!
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
