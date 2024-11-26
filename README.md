@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+Why did the golfer bring two pairs of pants? In case he got a hole in one.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
