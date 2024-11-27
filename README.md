@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the leopard play hide and seek? Because he was always spotted.
+Why did the IT technician become a race car driver? He wanted to troubleshoot the fast lane!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
