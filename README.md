@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the pony get sent to its room? It wouldn't stop horsing around!
+Why couldn't the leopard play hide and seek? Because he was always spotted.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
