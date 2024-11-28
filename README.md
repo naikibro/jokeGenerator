@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a cow with no legs? Ground beef!
+Why did the bear dissolve in water? Because it was polar.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
