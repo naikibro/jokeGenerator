@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bear dissolve in water? Because it was polar.
+What do you call a can opener that doesn’t work? A can’t opener!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
