@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken join a band? Because it had the drumsticks!
+Why did the scarecrow win an award? Because he was outstanding in his field.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
