@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one plate say to the other plate? Dinner is on me!
+What do you get when you cross a snowman and a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
