@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bear dissolve in water? Because it was polar.
+What did one plate say to the other plate? Dinner is on me!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
