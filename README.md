@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a vampire? Frostbite.
+Why did the chicken join a band? Because it had the drumsticks!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
