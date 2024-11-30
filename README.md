@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken join a band? Because it had the drumsticks!
+Why did the IT technician bring a ladder to work? Because he heard the server was on the cloud!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
