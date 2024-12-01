@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the doctor? He had a case of the computer virus!
+Why did the cookie go to the doctor? Because it was feeling crumbly.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
