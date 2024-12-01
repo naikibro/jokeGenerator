@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
+Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
