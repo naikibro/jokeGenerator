@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the turtle cross the road? To get to the shell station!
+Why did the cookie go to the hospital? Because he felt crummy.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
