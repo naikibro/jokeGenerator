@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a dog? Frostbite.
+Why did the IT technician bring a ladder to work? Because he heard the server was on the cloud!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
