@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the math book look sad? Because it had too many problems!
+Why did the proton bring the electron to the party? Because it had a positive charge.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
