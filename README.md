@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one ocean say to the other ocean? Nothing, they just waved.
+Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
