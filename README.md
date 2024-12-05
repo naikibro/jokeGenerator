@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken sit on the clock? Because it wanted to be on time!
+Why did the developer go broke? Because he used up all his cache.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
