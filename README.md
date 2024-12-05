@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a periodic table with gold missing? "Au revoir."
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
