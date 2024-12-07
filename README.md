@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It has too many bugs.
+Why did the IT technician get locked out of his house? He kept trying the wrong key combination.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
