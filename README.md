@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get locked out of his house? He kept trying the wrong key combination.
+What do you call a snowman with a six-pack? An abdominal snowman.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
