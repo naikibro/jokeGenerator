@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a gardener? He wanted to debug the plants!
+Why did the bicycle fall over? Because it was two-tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
