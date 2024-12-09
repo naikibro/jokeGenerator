@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+What do you get when you cross a cat and a lemon? A sourpuss!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
