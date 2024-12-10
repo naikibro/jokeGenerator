@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a cat and a lemon? A sourpuss!
+Why don't programmers like nature? It has too many bugs.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
