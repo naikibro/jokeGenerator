@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call fake spaghetti? An impasta!
+Why couldn't the leopard play hide and seek? Because he was always spotted.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
