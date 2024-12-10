@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the leopard play hide and seek? Because he was always spotted.
+Why did the math book look sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
