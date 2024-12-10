@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It has too many bugs.
+What do you call fake spaghetti? An impasta!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
