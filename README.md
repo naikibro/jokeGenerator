@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician break up with his smartphone? It kept dropping the call!
+Why don't oysters donate to charity? Because they're shellfish!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
