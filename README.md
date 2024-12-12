@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no ears? B!
+I'm reading a book on anti-gravity. It's impossible to put down!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
