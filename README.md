@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+What do you call fake spaghetti? An impasta.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
