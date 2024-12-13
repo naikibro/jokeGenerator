@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the restaurant? To troubleshoot the menu!
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
