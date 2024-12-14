@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+I told my wife she was drawing her eyebrows too high. She looked surprised.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
