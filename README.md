@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physics professor break up with the biology professor? There was no chemistry.
+Why did the programmer quit his job? Because he didn't get arrays.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
