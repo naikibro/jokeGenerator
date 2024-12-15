@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a map to work? He didn't want to get lost in the coding wilderness!
+Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
