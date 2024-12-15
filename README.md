@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a dog? Frostbite.
+Why did the bear dissolve in water? Because it was polar.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
