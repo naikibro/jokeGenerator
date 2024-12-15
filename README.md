@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a detective? He wanted to solve the case of the missing files!
+Why did the math book look sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
