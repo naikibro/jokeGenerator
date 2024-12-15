@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow become an artist? Because it wanted to draw pasture!
+What do you get when you cross a snowman and a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
