@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get promoted? Because he knew how to CTRL his career!
+I told my wife she was drawing her eyebrows too high. She looked surprised.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
