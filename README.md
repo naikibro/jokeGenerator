@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a tooth in a glass of water? A one molar solution.
+Why did the IT technician get promoted? Because he knew how to CTRL his career!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
