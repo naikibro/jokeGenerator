@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a hammer to work? He heard there was a hardware problem!
+What do you call cheese that isn't yours? Nacho cheese.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
