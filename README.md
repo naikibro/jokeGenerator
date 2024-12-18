@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why can't you trust an atom? Because they make up everything!
+What do you call a pile of cats? A meowtain!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
