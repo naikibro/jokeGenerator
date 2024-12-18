@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a can opener that doesn’t work? A can’t opener!
+Why don't scientists trust atoms? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
