@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a fake noodle? An impasta.
+Did you hear about the claustrophobic astronaut? He needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
