@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to art class? To learn how to draw windows!
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
