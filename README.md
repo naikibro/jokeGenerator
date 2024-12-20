@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a pencil to the server room? In case he needed to draw a network!
+Did you hear about the claustrophobic astronaut? He needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
