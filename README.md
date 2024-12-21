@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken go to the seance? To talk to the other side.
+Why did the whale cross the ocean? To get to the other tide!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
