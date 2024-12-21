@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+Why do biologists like to talk about enzymes? Because they're full of energy!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
