@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the whale cross the ocean? To get to the other tide!
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
