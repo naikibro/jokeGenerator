@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the turtle cross the road? To get to the shell station!
+What did one ocean say to the other ocean? Nothing, they just waved.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
