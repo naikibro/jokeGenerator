@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do biologists like to talk about enzymes? Because they're full of energy!
+Why did the turtle cross the road? To get to the shell station!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
