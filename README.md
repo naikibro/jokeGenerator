@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the belt arrested? For holding up a pair of pants.
+How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
