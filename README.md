@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
+Why was the bee's hair always messy? It kept buzzing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
