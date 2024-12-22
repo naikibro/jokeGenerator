@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one ocean say to the other ocean? Nothing, they just waved.
+Why did the programmer go broke? Because he used up all his cache.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
