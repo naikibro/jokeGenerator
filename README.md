@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the bee's hair always messy? It kept buzzing!
+Why don't programmers like nature? It has too many bugs.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
