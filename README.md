@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the fire at the circus? It was in tents.
+Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
