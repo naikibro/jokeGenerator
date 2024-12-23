@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts.
+Did you hear about the fire at the circus? It was in tents.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
