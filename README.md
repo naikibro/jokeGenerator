@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the whale cross the ocean? To get to the other tide!
+What do you call a pig that does karate? A pork chop!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
