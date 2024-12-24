@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pig that does karate? A pork chop!
+How does a penguin build its house? Igloos it together!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
