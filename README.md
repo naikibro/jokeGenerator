@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a pilot? He wanted to troubleshoot the flight plan!
+Why did the whale cross the ocean? To get to the other tide!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
