@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's a physicist's favorite food? Fission chips.
+Why don't skeletons fight each other? They don't have the guts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
