@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together!
+Why did the turtle cross the road? To get to the shell station!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
