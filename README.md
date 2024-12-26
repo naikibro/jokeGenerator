@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the proton bring the electron to the party? Because it had a positive charge.
+What do you call a bear with no teeth? A gummy bear.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
