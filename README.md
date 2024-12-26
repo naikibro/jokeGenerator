@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts!
+Why did the IT technician become a race car driver? He wanted to troubleshoot the fast lane!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
