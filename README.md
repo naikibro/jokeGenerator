@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't oysters donate to charity? Because they're shellfish!
+Why did the IT technician become a lifeguard? He wanted to troubleshoot the pool of problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
