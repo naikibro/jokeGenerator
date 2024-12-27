@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+Why did the biologist bring a ladder to the bar? Because the drinks were on the top shelf.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
