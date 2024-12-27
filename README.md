@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+Why did the IT technician get into a fight with his printer? It kept jamming up the conversation!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
