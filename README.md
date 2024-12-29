@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear!
+Why did the IT technician get a job at the bakery? He wanted to troubleshoot the dough-licious pastries!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
