@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get a job at the bakery? He wanted to troubleshoot the dough-licious pastries!
+Why don't skeletons fight each other? They don't have the guts.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
