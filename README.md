@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+What do you call an alligator in a vest? An investigator.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
