@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't plants play hide and seek? Because they always leaf too soon.
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
