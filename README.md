@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+Why was the belt arrested? For holding up a pair of pants.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
