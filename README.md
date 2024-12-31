@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the belt arrested? For holding up a pair of pants.
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
