@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet.
+Why did the IT technician go to the doctor? He had a case of the byte-me virus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
