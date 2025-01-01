@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a detective? He wanted to solve the case of the missing files!
+Why don't skeletons fight each other? They don't have the guts.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
