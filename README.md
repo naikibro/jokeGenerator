@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the centrifuge so popular at the party? It knew how to spin things around.
+Why did the IT technician become a detective? He wanted to solve the case of the missing files!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
