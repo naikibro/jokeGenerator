@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet.
+What's orange and sounds like a parrot? A carrot.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
