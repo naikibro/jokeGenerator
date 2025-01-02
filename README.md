@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a pilot? He wanted to troubleshoot the flight plan!
+Why don't skeletons fight each other? They don't have the guts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
