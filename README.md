@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts.
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
