@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a sleeping bull? A bulldozer!
+Why don’t skeletons fight each other? They don’t have the guts.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
