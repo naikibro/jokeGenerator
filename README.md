@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken go to the seance? To talk to the other side.
+Why did the IT technician become a comedian? He wanted to debug people's laughter!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
