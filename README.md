@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the photon check into a hotel? Because it was traveling light.
+Why did the IT technician go to the farm? To troubleshoot the root vegetables!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
