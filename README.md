@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the farm? To troubleshoot the root vegetables!
+Why did the chicken go to the seance? To talk to the other side.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
