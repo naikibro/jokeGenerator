@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer quit his job? Because he didn't get arrays.
+Why did the IT technician get a job at the zoo? He heard they needed someone to debug the monkey business!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
