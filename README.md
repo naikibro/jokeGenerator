@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cookie go to the hospital? Because he felt crummy.
+What do you call an alligator in a vest? An investigator!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
