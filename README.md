@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call an alligator in a vest? An investigator!
+Why did the golfer bring two pairs of pants? In case he got a hole in one!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
