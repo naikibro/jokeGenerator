@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I told my wife she was drawing her eyebrows too high. She looked surprised.
+Why did the IT technician get into a fight with his printer? It kept jamming up the conversation!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
