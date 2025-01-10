@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
