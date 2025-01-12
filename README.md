@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+Why was the bee's hair always messy? It kept buzzing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
