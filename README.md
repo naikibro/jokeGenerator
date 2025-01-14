@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It has too many bugs.
+I told my computer I needed a break. Now it won't stop sending me vacation ads.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
