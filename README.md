@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a snowman with a six-pack? An abdominal snowman.
+Why did the IT technician go to the farm? To troubleshoot the root vegetables!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
