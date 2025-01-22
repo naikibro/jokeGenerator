@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get a job at the bakery? He wanted to troubleshoot the dough-licious pastries!
+Why did the IT technician go to space? He heard there was a problem with the satellites!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
