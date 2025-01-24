@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken sit on the clock? Because it wanted to be on time!
+What do you call a periodic table with gold missing? "Au revoir."
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
