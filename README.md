@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call fake spaghetti? An impasta.
+Why did the IT technician become a plumber? He wanted to troubleshoot the pipes!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
