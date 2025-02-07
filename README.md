@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+How does a penguin build its house? Igloos it together.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
