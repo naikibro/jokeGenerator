@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the spider go on the computer? It was searching the web!
+What do you get when you cross a snowman and a vampire? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
