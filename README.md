@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get if you cross a cat with a dark horse? Kitty Perry!
+Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
