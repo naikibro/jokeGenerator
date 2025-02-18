@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a vampire? Frostbite.
+Why did the IT technician bring a pencil to the server room? In case he needed to draw a network!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
