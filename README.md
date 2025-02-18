@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a pencil to the server room? In case he needed to draw a network!
+How do you catch a squirrel? Climb a tree and act like a nut!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
