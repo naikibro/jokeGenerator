@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a sleeping bull? A bulldozer!
+What's orange and sounds like a parrot? A carrot.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
