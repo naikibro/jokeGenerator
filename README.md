@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the microbiologist stay home from the party? He had bacterial culture.
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
