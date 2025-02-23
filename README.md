@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the bicycle stand up by itself? It was two-tired.
+Why did the turtle cross the road? To get to the shell station!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
