@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Why couldn't the bicycle stand up by itself? It was two-tired.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
