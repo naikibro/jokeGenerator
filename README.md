@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the math book look sad? Because it had too many problems!
+Why was the math book sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
