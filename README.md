@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What does a cloud wear under his raincoat? Thunderwear!
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
