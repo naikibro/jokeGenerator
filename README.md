@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the microbiologist stay home from the party? He had bacterial culture.
+What do you call cheese that isn't yours? Nacho cheese.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
