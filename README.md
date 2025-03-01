@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+Did you hear about the claustrophobic astronaut? He needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
