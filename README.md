@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer quit his job? Because he didn't get arrays.
+Why don't plants play hide and seek? Because they always leaf too soon.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
