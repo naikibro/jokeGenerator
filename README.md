@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a plant to work? He heard it needed more root access!
+Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
