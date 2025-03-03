@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+Why did the scarecrow win an award? Because he was outstanding in his field!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
