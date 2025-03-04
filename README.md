@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's a cow's favorite musical note? Beef flat!
+Why did the IT technician become a comedian? He wanted to debug people's laughter!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
