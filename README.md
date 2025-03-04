@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the scarecrow win an award? Because he was outstanding in his field!
+What's a cow's favorite musical note? Beef flat!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
