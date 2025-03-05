@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the claustrophobic astronaut? He needed space.
+Why did the IT technician become a detective? He wanted to solve the case of the missing files!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
