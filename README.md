@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What is the most important rule in chemistry? Never lick the spoon!
+Why don't scientists trust atoms? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
