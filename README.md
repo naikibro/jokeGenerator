@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician sit on the clock? He wanted to be on time!
+Why don't programmers like nature? It has too many bugs.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
