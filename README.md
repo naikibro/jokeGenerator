@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bear dissolve in water? Because it was polar.
+Why did the IT technician sit on the clock? He wanted to be on time!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
