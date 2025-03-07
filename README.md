@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the IT technician always tired? Because he worked around the clock.
+Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
