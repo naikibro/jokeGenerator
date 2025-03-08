@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts!
+Why did the chicken go to the seance? To talk to the other side.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
