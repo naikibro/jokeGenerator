@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get a job at the zoo? He heard they needed someone to debug the monkey business!
+Why don't plants play hide and seek? Because they always leaf too soon.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
