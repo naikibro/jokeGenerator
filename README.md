@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't plants play hide and seek? Because they always leaf too soon.
+Why did the tomato turn red? Because it saw the salad dressing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
