@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+Why was the IT technician always calm? Because he had Ctrl and Alt under control.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
