@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the claustrophobic astronaut? He needed space.
+Why did the IT technician get into a fight with his TV? It kept changing the channel!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
