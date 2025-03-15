@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cat sit on the computer? It wanted to keep an eye on the mouse!
+Why did the math book look sad? Because it had too many problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
