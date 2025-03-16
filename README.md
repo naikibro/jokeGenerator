@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a sleeping bull? A bulldozer!
+Why did the cow go to outer space? It wanted to see the moooon!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
