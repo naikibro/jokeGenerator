@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cat sit on the computer? To keep an eye on the mouse!
+What do you call a tooth in a glass of water? A one molar solution.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
