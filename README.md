@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get kicked out of the art gallery? He tried to upgrade the paintings!
+Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
