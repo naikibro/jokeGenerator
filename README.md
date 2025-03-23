@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's a physicist's favorite food? Fission chips.
+Why was the math book sad? Because it had too many problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
