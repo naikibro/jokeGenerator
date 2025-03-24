@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a plumber? He wanted to troubleshoot the pipes!
+How does a penguin build its house? Igloos it together!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
