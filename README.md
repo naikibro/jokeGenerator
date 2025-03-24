@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the janitor say when he jumped out of the closet? Supplies!
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
