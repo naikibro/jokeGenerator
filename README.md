@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get if you cross a cat with a dark horse? Kitty Perry!
+How does a penguin build its house? Igloos it together!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
