@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't fish play basketball? Because they're afraid of the net!
+What do you get if you cross a cat with a dark horse? Kitty Perry!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
