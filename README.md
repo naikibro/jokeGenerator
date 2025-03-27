@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I told my wife she was drawing her eyebrows too high. She looked surprised.
+Why did the scarecrow win an award? Because he was outstanding in his field.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
