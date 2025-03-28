@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the farm? To troubleshoot the root vegetables!
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
