@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the whale cross the ocean? To get to the other tide!
+How does a penguin build its house? Igloos it together!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
