@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+Why did the IT technician go to space? He heard there was a problem with the satellites!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
