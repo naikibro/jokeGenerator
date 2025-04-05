@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call an alligator in a vest? An investigator.
+Why did the IT technician always carry a USB drive? In case he needed to save the day!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
