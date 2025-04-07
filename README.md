@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the proton bring the electron to the party? Because it had a positive charge.
+Why did the IT technician get a job at the bakery? He wanted to troubleshoot the dough-licious pastries!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
