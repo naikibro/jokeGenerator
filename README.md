@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call fake spaghetti? An impasta!
+Why did the proton bring the electron to the party? Because it had a positive charge.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
