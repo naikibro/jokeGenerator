@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese!
+Why did the IT technician go to the zoo? He wanted to see if they needed help with the network of animals!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
