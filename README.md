@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the koala fall out of the tree? Because it was eucalyptus!
+Why did the programmer quit his job? Because he didn't get arrays.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
