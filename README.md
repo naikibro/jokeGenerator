@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the scarecrow win an award? Because he was outstanding in his field.
+What's the difference between an oral and a rectal thermometer? The taste.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
