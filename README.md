@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's the difference between an oral and a rectal thermometer? The taste.
+Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
