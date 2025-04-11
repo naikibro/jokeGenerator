@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you make a cat happy? Give it some purr-spective!
+What did the grape say when the elephant stepped on it? Nothing, it just let out a little wine!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
