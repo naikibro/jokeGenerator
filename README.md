@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the scarecrow win an award? Because he was outstanding in his field!
+Why did the IT technician get a job at the circus? He heard they needed someone to juggle the servers!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
