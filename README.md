@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the beach? To surf the net!
+Why did the astronaut break up with her boyfriend? Because he needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
