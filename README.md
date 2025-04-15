@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a chef? He wanted to troubleshoot the recipe for success!
+Why did the IT technician go to the beach? To surf the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
