@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't fish play basketball? Because they're afraid of the net!
+Did you hear about the famous microbiologist who visited 30 different countries and spoke 6 languages? He was a man of many cultures.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
