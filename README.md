@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the famous microbiologist who visited 30 different countries and spoke 6 languages? He was a man of many cultures.
+Why did the IT technician become a gardener? He wanted to debug the plants!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
