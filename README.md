@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? It had too many problems.
+What do you call an alligator in a vest? An investigator!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
