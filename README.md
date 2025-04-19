@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to space? He heard there was a problem with the satellites!
+What do you call a boomerang that doesn’t come back? A stick!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
