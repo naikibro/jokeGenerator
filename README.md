@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get locked out of his house? He kept trying the wrong key combination.
+Why did the IT technician become a gardener? He wanted to debug the plants!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
