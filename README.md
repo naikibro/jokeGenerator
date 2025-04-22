@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the biologist wear to impress their date? Designer genes.
+Why did the IT technician get promoted? Because he knew how to CTRL his career!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
