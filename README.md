@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get promoted? Because he knew how to CTRL his career!
+What do you call fake spaghetti? An impasta.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
