@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It has too many bugs.
+How does a penguin build its house? Igloos it together!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
