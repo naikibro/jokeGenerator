@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the astronaut break up with her boyfriend? Because he needed space.
+What do you get when you cross a snowman and a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
