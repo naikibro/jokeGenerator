@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? It had too many problems.
+What do you call a cow with no legs? Ground beef!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
