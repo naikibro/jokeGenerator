@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a cow with no legs? Ground beef!
+Why did the IT technician go to the restaurant? To troubleshoot the menu!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
