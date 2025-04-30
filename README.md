@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a cow with no legs? Ground beef!
+Why couldn't the bicycle stand up by itself? It was two-tired.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
