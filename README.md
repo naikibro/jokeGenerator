@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
+Why did the math book look sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
