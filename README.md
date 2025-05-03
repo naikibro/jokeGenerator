@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bacteria cross the microscope? To get to the other slide.
+What do you get when you cross a snowman with a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
