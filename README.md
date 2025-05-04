@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+Why did the bicycle fall over? It was two tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
