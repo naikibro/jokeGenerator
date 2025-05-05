@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
+Why don't seagulls fly over the bay? Because then they'd be called bagels!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
