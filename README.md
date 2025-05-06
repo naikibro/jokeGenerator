@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you make a tissue dance? You put a little boogie in it!
+Why don’t skeletons fight each other? They don’t have the guts.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
