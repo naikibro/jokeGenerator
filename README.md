@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't seagulls fly over the bay? Because then they'd be called bagels!
+How do you make a tissue dance? You put a little boogie in it!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
