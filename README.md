@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+Why don't crabs give to charity? Because they're shellfish!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
