@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physics professor break up with the biology professor? There was no chemistry.
+What do you call a pig that does karate? A pork chop!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
