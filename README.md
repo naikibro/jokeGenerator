@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pig that does karate? A pork chop!
+Why don't programmers like nature? It has too many bugs.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
