@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a tooth in a glass of water? A one molar solution.
+How do you make a cat happy? Give it some purr-spective!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
