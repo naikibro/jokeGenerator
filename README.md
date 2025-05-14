@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you make a cat happy? Give it some purr-spective!
+Why did the cookie go to the doctor? Because it was feeling crumbly.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
