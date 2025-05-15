@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physicist go to the beach? Because he wanted to test the water!
+Why did the programmer go broke? Because he used up all his cache.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
