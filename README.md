@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+Why did the physicist go to the beach? Because he wanted to test the water!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
