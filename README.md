@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I told my wife she was drawing her eyebrows too high. She looked surprised.
+What do you get if you cross a cat with a dark horse? Kitty Perry!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
