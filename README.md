@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
