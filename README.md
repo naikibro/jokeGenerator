@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a comedian? He wanted to debug people's laughter!
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
