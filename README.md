@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a vampire? Frostbite!
+Why did the IT technician get a job at the circus? He heard they needed someone to juggle the servers!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
