@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you make a cat happy? Give it some purr-spective!
+Why was the belt arrested? For holding up a pair of pants.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
