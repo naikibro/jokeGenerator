@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to art class? To learn how to draw windows!
+Why did the horse go behind the tree? To change its jockeys!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
