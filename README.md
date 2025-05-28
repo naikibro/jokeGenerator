@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the belt arrested? For holding up a pair of pants.
+Why did the IT technician go to art class? To learn how to draw windows!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
