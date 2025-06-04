@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman with a dog? Frostbite.
+What did the janitor say when he jumped out of the closet? Supplies!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
