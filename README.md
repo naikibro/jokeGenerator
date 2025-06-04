@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do bananas have to put on sunscreen? Because they peel!
+Why did the chicken join a band? Because it had the drumsticks!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
