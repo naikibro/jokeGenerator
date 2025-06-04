@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken join a band? Because it had the drumsticks!
+What do you get when you cross a snowman with a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
