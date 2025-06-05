@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the bicycle stand up by itself? It was two-tired.
+Why was the bee's hair always messy? It kept buzzing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
