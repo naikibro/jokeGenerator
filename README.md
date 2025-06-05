@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the janitor say when he jumped out of the closet? Supplies!
+What do you get when you cross a snowman and a vampire? Frostbite!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
