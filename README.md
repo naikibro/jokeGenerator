@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the astronaut break up with her boyfriend? Because he needed space.
+Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
