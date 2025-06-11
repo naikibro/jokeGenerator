@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Why did the IT technician keep a baseball bat at his desk? In case he needed to hit the delete key!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
