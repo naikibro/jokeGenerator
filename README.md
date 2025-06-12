@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician keep a baseball bat at his desk? In case he needed to hit the delete key!
+Why don't plants play hide and seek? Because they always leaf too soon.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
