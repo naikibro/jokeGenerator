@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician always carry a USB drive? In case he needed to save the day!
+Why do bananas have to put on sunscreen? Because they peel!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
