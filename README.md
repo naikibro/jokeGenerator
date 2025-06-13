@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cookie go to the doctor? Because it was feeling crumbly.
+What do you get when you cross a cat and a lemon? A sourpuss!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
