@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a cat and a lemon? A sourpuss!
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
