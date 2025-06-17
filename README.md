@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bacteria cross the microscope? To get to the other slide.
+Why did the IT technician break up with his calculator? It didn't add up anymore.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
