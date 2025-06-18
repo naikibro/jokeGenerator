@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physics professor break up with the biology professor? There was no chemistry.
+Why did the IT technician always carry a mirror? To reflect on his problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
