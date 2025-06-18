@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the scarecrow win an award? Because he was outstanding in his field!
+Why did the math book look sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
