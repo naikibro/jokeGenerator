@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the claustrophobic astronaut? He needed space.
+Why did the turtle cross the road? To get to the shell station!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
