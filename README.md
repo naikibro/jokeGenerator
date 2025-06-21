@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician always carry a mirror? To reflect on his problems!
+How do you organize a space party? You planet!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
