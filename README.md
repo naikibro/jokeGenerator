@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cat sit on the computer? To keep an eye on the mouse!
+What did one ocean say to the other ocean? Nothing, they just waved.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
