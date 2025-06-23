@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call fake spaghetti? An impasta.
+Why did the math book look sad? Because it had too many problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
