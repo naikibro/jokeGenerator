@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physicist go to the beach? Because he wanted to test the water!
+What do you call fake spaghetti? An impasta.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
