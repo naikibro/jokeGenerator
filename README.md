@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Why did the programmer go broke? Because he used up all his cache.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
