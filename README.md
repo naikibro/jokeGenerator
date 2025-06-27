@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear.
+Why don't programmers like nature? It has too many bugs.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
