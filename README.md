@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese.
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
