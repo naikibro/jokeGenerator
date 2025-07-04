@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the golfer bring two pairs of pants? In case he got a hole in one!
+Did you hear about the famous microbiologist who visited 30 different countries and spoke 6 languages? He was a man of many cultures.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
