@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet.
+What do you call a deer with no eyes? No eye-deer!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
