@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a tooth in a glass of water? A one molar solution.
+How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
