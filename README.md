@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken sit on the clock? Because it wanted to be on time!
+Why did the IT technician bring a pencil to the server room? In case he needed to draw a network!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
