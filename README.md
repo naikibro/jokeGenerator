@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bear dissolve in water? Because it was polar.
+Why did the IT technician go to art class? To learn how to draw windows!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
