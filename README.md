@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a gardener? He wanted to debug the plants!
+Why did the IT technician bring a ladder to the bar? He heard the drinks were on the house!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
