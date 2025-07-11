@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+Why did the IT technician become a gardener? He wanted to debug the plants!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
