@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer quit his job? Because he didn't get arrays.
+What do you call a periodic table with gold missing? "Au revoir."
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
