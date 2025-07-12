@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a periodic table with gold missing? "Au revoir."
+Why don't crabs give to charity? Because they're shellfish!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
