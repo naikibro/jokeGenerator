@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't crabs give to charity? Because they're shellfish!
+Why did the IT technician go to the beach? To surf the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
