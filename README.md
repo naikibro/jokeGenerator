@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician stay away from the ocean? He was afraid of the ethernet shark!
+What do you call a fish with no eyes? Fsh.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
