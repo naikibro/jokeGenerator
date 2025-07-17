@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the whale cross the ocean? To get to the other tide!
+Why was the bee's hair always messy? It kept buzzing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
