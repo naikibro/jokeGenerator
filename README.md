@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the bee's hair always messy? It kept buzzing!
+Why did the cookie go to the hospital? Because he felt crummy.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
