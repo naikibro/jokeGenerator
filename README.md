@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cookie go to the hospital? Because he felt crummy.
+Why don't skeletons fight each other? They don't have the guts.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
