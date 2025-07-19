@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physics professor break up with the biology professor? There was no chemistry.
+Why did the golfer bring two pairs of pants? In case he got a hole in one!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
