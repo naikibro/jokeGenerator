@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the claustrophobic astronaut? He needed space.
+What do you call a cow with no legs? Ground beef!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
