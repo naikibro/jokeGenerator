@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the IT technician always calm? Because he had Ctrl and Alt under control.
+How do you organize a space party? You planet!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
