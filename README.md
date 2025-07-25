@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the doctor? He had a case of the byte-me virus!
+Why did the IT technician always carry a USB drive? In case he needed to save the day!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
