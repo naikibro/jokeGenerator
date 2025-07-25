@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer go broke? Because he used up all his cache.
+Why did the IT technician go to the doctor? He had a case of the byte-me virus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
