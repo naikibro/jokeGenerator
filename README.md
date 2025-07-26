@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't fish play basketball? Because they're afraid of the net!
+Why did the cat sit on the computer? It wanted to keep an eye on the mouse!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
