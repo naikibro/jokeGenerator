@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician always carry a USB drive? In case he needed to save the day!
+Why don't fish play basketball? Because they're afraid of the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
