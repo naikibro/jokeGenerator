@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken go to the seance? To talk to the other side.
+Why did the horse go behind the tree? To change its jockeys!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
