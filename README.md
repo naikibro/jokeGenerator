@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a race car driver? He wanted to troubleshoot the fast lane!
+Why did the physics professor break up with the biology professor? There was no chemistry.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
