@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physics professor break up with the biology professor? There was no chemistry.
+What do you call a tooth in a glass of water? A one molar solution.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
