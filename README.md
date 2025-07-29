@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts!
+What do you call a bear with no ears? B!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
