@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a fish with no eyes? Fsh.
+How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
