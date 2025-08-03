@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the math book look sad? Because it had too many problems.
+What do you call a pile of cats? A meowtain!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
