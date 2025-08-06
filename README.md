@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the spider go on the computer? It was searching the web!
+Why do we never tell secrets on a farm? Because the potatoes have eyes and the corn has ears!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
