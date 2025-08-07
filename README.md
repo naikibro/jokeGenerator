@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the restaurant? To troubleshoot the menu!
+What's orange and sounds like a parrot? A carrot.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
