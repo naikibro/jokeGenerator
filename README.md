@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's the difference between an oral and a rectal thermometer? The taste.
+What did the janitor say when he jumped out of the closet? Supplies!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
