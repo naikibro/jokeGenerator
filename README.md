@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a pencil to the server room? In case he needed to draw a network!
+What do you get when you cross a snowman and a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
