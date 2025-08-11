@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a dog? Frostbite.
+Why don't plants play hide and seek? Because they always leaf too soon.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
