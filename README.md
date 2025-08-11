@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't plants play hide and seek? Because they always leaf too soon.
+Why did the cat sit on the computer? It wanted to keep an eye on the mouse!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
