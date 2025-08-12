@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What’s brown and sticky? A stick!
+Why did the IT technician bring a map to work? He didn't want to get lost in the coding wilderness!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
