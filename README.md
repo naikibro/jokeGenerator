@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the beach? To surf the net!
+What did one plate say to the other plate? Dinner's on me!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
