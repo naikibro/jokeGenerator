@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a map to work? He didn't want to get lost in the coding wilderness!
+What do you get when you cross a snowman and a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
