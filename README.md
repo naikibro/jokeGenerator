@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-I'm reading a book on anti-gravity. It's impossible to put down!
+Why was the centrifuge so popular at the party? It knew how to spin things around.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
