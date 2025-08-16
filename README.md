@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the math book look sad? Because it had too many problems.
+What do you get when you cross a snowman and a vampire? Frostbite!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
