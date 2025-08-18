@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a fish with no eyes? Fsh.
+Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
