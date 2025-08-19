@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer go broke? Because he used up all his cache.
+Why did the IT technician become a chef? He wanted to troubleshoot the recipe for success!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
