@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+What's the difference between a cat and a comma? One has claws at the end of its paws, and the other is a pause at the end of a clause.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
