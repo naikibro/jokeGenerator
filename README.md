@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's the difference between a cat and a comma? One has claws at the end of its paws, and the other is a pause at the end of a clause.
+Why was the centrifuge so popular at the party? It knew how to spin things around.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
