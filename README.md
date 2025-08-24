@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer quit his job? Because he didn't get arrays.
+Why did the cat sit on the computer? It wanted to keep an eye on the mouse!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
