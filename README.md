@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a lifeguard? He wanted to troubleshoot the pool of problems!
+Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
