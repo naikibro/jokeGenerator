@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken join a band? Because it had the drumsticks!
+What do you get if you cross a cat with a dark horse? Kitty Perry!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
