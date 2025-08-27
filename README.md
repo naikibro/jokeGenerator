@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts.
+Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
