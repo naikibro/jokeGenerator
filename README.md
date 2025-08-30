@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physicist go to the beach? Because he wanted to test the water!
+Why did the IT technician become a plumber? He wanted to troubleshoot the pipes!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
