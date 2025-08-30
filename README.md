@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together.
+Why did the physicist go to the beach? Because he wanted to test the water!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
