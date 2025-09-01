@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician break up with his smartphone? It kept dropping the call!
+I told my computer I needed a break. Now it won't stop sending me vacation ads.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
