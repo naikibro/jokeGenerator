@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get into a fight with his printer? It kept jamming up the conversation!
+Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
