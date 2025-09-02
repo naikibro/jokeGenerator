@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don’t skeletons fight each other? They don’t have the guts.
+Why did the IT technician get into a fight with his printer? It kept jamming up the conversation!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
