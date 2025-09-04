@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a pilot? He wanted to troubleshoot the flight plan!
+What's a cow's favorite musical note? Beef flat!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
