@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't oysters donate to charity? Because they're shellfish!
+Why did the cookie go to the doctor? Because it was feeling crumbly.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
