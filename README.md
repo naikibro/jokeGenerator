@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cookie go to the doctor? Because it was feeling crumbly.
+What do you get if you cross a cat with a dark horse? Kitty Perry!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
