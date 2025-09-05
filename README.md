@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get if you cross a cat with a dark horse? Kitty Perry!
+Why did the IT technician become a musician? He wanted to troubleshoot the rhythm section!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
