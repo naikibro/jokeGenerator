@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the beach? To surf the net!
+Why did the programmer quit his job? Because he didn't get arrays.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
