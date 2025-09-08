@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese.
+Why don't ants get sick? Because they have tiny ant-bodies!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
