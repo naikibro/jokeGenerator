@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
+Why did the IT technician become a pilot? He wanted to troubleshoot the flight plan!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
