@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't ants get sick? Because they have tiny ant-bodies!
+Why was the math book sad? It had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
