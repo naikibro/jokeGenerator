@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the spider go on the computer? It was searching the web!
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
