@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a tooth in a glass of water? A one molar solution.
+Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
