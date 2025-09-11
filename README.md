@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why can't you trust an atom? Because they make up everything!
+What do you call a tooth in a glass of water? A one molar solution.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
