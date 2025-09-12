@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
+Why don't skeletons fight each other? They don't have the guts.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
