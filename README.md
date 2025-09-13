@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What does a cloud wear under his raincoat? Thunderwear!
+Why did the chicken go to the seance? To talk to the other side.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
