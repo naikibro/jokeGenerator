@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear!
+What did the grape say when the elephant stepped on it? Nothing, it just let out a little wine!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
