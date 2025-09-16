@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the koala fall out of the tree? Because it was eucalyptus!
+Why did the IT technician get into a fight with his printer? It kept jamming up the conversation!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
