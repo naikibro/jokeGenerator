@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear.
+Why did the IT technician break up with his smartphone? It kept dropping the call!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
