@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+Why did the horse go behind the tree? To change its jockeys!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
