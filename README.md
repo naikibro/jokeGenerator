@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? Because it had too many problems!
+Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
