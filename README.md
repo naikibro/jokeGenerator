@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the horse go behind the tree? To change its jockeys!
+Why was the math book sad? Because it had too many problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
