@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a cow with no legs? Ground beef!
+Why did the biologist bring a ladder to the bar? Because the drinks were on the top shelf.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
