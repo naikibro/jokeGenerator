@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a lifeguard? He wanted to troubleshoot the pool of problems!
+What do you call a cow with no legs? Ground beef!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
