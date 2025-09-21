@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+Why couldn't the bicycle stand up by itself? It was two-tired.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
