@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a race car driver? He wanted to troubleshoot the fast lane!
+Did you hear about the famous microbiologist who visited 30 different countries and spoke 6 languages? He was a man of many cultures.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
