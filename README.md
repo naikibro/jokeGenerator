@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a gardener? He wanted to debug the plants!
+Why don't scientists trust atoms? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
