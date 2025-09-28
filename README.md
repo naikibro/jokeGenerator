@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+Why did the pony get sent to its room? It wouldn't stop horsing around!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
