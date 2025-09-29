@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the pony get sent to its room? It wouldn't stop horsing around!
+Why do bananas have to put on sunscreen? Because they peel!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
