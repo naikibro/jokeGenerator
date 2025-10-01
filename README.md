@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a plant to work? He heard it needed more root access!
+What did one ocean say to the other ocean? Nothing, they just waved!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
