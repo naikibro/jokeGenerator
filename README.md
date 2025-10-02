@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snake and a pie? A python!
+Why don't scientists trust atoms? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
