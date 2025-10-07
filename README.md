@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a unique rabbit? Unique up on it!
+Why did the astronaut break up with her boyfriend? Because he needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
