@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one wall say to the other wall? "I'll meet you at the corner."
+Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
