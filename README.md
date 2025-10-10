@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+What's the difference between a cat and a comma? One has claws at the end of its paws, and the other is a pause at the end of a clause.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
