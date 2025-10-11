@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get kicked out of the art gallery? He tried to upgrade the paintings!
+What do you call a fish with no eyes? Fsh.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
