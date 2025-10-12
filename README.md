@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a race car driver? He wanted to troubleshoot the fast lane!
+Why don't plants play hide and seek? Because they always leaf too soon.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
