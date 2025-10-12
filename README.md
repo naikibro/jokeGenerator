@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't plants play hide and seek? Because they always leaf too soon.
+What did the biologist wear to impress their date? Designer genes.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
