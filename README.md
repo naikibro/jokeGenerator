@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the grape say when the elephant stepped on it? Nothing, it just let out a little wine!
+What do you get when you cross a snowman and a vampire? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
