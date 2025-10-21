@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's the difference between a cat and a comma? One has claws at the end of its paws, and the other is a pause at the end of a clause.
+Why did the IT technician become a lifeguard? He wanted to troubleshoot the pool of problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
