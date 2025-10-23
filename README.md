@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the biologist wear to impress their date? Designer genes.
+What did one ocean say to the other ocean? Nothing, they just waved.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
