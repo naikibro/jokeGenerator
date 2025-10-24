@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the astronaut break up with her boyfriend? Because he needed space.
+What do you call a bear with no ears? B!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
