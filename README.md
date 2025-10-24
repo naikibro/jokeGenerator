@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a tooth in a glass of water? A one molar solution.
+Why did the bear dissolve in water? Because it was polar.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
