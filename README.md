@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bear dissolve in water? Because it was polar.
+Why did the astronaut break up with her boyfriend? Because he needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
