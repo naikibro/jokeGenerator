@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no ears? B!
+Why was the math book sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
