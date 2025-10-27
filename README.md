@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
+Why was the belt arrested? For holding up a pair of pants.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
