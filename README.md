@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
+I'm reading a book on anti-gravity. It's impossible to put down!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
