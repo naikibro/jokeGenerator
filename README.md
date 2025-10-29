@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the koala fall out of the tree? Because it was eucalyptus!
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
