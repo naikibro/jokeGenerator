@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a periodic table with gold missing? "Au revoir."
+Why don't plants play hide and seek? Because they always leaf too soon.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
