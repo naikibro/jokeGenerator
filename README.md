@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician keep a baseball bat at his desk? In case he needed to hit the delete key!
+Why did the pony get sent to its room? It wouldn't stop horsing around!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
