@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+Why did the chicken sit on the clock? Because it wanted to be on time!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
