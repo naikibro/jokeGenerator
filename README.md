@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one ocean say to the other ocean? Nothing, they just waved.
+Why did the physicist go to the beach? Because he wanted to test the water!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
