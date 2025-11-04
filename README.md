@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the claustrophobic astronaut? He needed space.
+Why don't fish play basketball? Because they're afraid of the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
