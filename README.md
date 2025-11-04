@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't fish play basketball? Because they're afraid of the net!
+What do you get when you cross a snowman and a vampire? Frostbite!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
