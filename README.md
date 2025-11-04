@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get if you cross a cat with a dark horse? Kitty Perry!
+Did you hear about the claustrophobic astronaut? He needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
