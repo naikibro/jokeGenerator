@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one wall say to the other wall? "I'll meet you at the corner."
+Why couldn't the bicycle stand up by itself? It was two-tired.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
