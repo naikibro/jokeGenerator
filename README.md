@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the koala fall out of the tree? Because it was eucalyptus!
+What did one wall say to the other wall? "I'll meet you at the corner."
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
