@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+Why did the IT technician stay away from the ocean? He was afraid of the ethernet shark!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
