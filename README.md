@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician stay away from the ocean? He was afraid of the ethernet shark!
+Why did the whale cross the ocean? To get to the other tide!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
