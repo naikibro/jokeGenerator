@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get promoted? Because he knew how to CTRL his career!
+Why did the IT technician get into a fight with his TV? It kept changing the channel!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
