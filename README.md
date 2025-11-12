@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the whale cross the ocean? To get to the other tide!
+Why did the IT technician get promoted? Because he knew how to CTRL his career!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
