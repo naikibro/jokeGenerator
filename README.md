@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the biologist wear to impress their date? Designer genes.
+Why did the IT technician break up with his smartphone? It kept dropping the call!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
