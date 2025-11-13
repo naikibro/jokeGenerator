@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get into a fight with his TV? It kept changing the channel!
+What do you call fake spaghetti? An impasta.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
