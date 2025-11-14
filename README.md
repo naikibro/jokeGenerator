@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician break up with his smartphone? It kept dropping the call!
+Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
