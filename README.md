@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a fly without wings? A walk!
+Did you hear about the claustrophobic astronaut? He needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
