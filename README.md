@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the claustrophobic astronaut? He needed space.
+Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
