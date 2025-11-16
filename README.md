@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
+Why did the IT technician become a lifeguard? He wanted to troubleshoot the pool of problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
