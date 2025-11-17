@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear!
+Why did the IT technician go to the zoo? He wanted to see if they needed help with the network of animals!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
