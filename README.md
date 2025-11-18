@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the beach? To surf the net!
+I told my wife she was drawing her eyebrows too high. She looked surprised.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
