@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese!
+What do you get when you cross a snowman and a vampire? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
