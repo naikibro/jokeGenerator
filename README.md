@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get into a fight with his printer? It kept jamming up the conversation!
+Why did the IT technician sit on the clock? He wanted to be on time!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
