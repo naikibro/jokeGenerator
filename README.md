@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician sit on the clock? He wanted to be on time!
+Why did the bicycle fall over? It was two tired!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
