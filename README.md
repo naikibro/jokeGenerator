@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together!
+What do you call a periodic table with gold missing? "Au revoir."
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
