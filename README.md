@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a boomerang that doesn’t come back? A stick!
+Why did the IT technician go to the library? To check out the network of books!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
