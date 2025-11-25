@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the horse go behind the tree? To change its jockeys!
+What did one ocean say to the other ocean? Nothing, they just waved!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
