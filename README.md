@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you make a cat happy? Give it some purr-spective!
+What do you get when you cross a cat and a lemon? A sourpuss!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
