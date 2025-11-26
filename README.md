@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one ocean say to the other ocean? Nothing, they just waved!
+How do you make a cat happy? Give it some purr-spective!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
