@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't seagulls fly over the bay? Because then they'd be called bagels!
+Why did the biologist bring a ladder to the bar? Because the drinks were on the top shelf.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
