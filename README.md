@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one wall say to the other wall? "I'll meet you at the corner."
+Why did the chicken sit on the clock? Because it wanted to be on time!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
