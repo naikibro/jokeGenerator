@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer quit his job? Because he didn't get arrays.
+What did one wall say to the other wall? "I'll meet you at the corner."
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
