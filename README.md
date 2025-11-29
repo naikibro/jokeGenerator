@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together!
+Why did the programmer quit his job? Because he didn't get arrays.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
