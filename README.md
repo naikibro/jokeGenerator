@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken sit on the clock? Because it wanted to be on time!
+How does a penguin build its house? Igloos it together!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
