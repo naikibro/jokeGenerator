@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the leopard play hide and seek? Because he was always spotted.
+Why did the cat sit on the computer? To keep an eye on the mouse!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
