@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+Why couldn't the leopard play hide and seek? Because he was always spotted.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
