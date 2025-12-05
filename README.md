@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear.
+Why do bananas have to put on sunscreen? Because they peel!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
