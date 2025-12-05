@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do bananas have to put on sunscreen? Because they peel!
+What did one plate say to the other plate? Dinner's on me!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
