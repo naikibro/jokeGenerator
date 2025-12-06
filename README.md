@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cat sit on the computer? It wanted to keep an eye on the mouse!
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
