@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a cat and a lemon? A sourpuss!
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
