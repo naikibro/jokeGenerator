@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a fake noodle? An impasta.
+What do you get when you cross a cat and a lemon? A sourpuss!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
