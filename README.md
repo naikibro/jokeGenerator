@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cookie go to the doctor? Because it was feeling crumbly.
+What do you call a tooth in a glass of water? A one molar solution.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
