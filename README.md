@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a tooth in a glass of water? A one molar solution.
+Why did the chicken go to the seance? To talk to the other side.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
