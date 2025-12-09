@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow go to outer space? It wanted to see the moooon!
+Why did the microbiologist stay home from the party? He had bacterial culture.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
