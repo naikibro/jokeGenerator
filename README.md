@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the belt arrested? For holding up a pair of pants.
+Why did the cow go to outer space? It wanted to see the moooon!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
