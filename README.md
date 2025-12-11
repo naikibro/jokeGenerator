@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the beach? To surf the net!
+What do you call a pile of cats? A meowtain!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
