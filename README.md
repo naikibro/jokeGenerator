@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pile of cats? A meowtain!
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
