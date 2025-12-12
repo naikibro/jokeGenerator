@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the janitor say when he jumped out of the closet? Supplies!
+Why was the math book sad? It had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
