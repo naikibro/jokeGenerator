@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the library? To check out the network of books!
+What did the janitor say when he jumped out of the closet? Supplies!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
