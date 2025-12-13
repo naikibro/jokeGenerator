@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? It had too many problems.
+Why did the microbiologist stay home from the party? He had bacterial culture.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
