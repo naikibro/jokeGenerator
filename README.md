@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the IT technician always calm? Because he had Ctrl and Alt under control.
+Why did the IT technician become a comedian? He wanted to debug people's laughter!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
