@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+Why did the photon check into a hotel? Because it was traveling light.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
