@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a musician? He wanted to troubleshoot the rhythm section!
+Why did the bacteria cross the microscope? To get to the other slide.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
