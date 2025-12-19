@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken join a band? Because it had the drumsticks!
+Why did the IT technician become a musician? He wanted to troubleshoot the rhythm section!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
