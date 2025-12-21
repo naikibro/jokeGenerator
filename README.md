@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pig that does karate? A pork chop!
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
