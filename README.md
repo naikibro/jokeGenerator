@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer go broke? Because he used up all his cache.
+Why did the IT technician go to space? He heard there was a problem with the satellites!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
