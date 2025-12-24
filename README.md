@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the golfer bring two pairs of pants? In case he got a hole in one!
+Why did the IT technician get into a fight with his printer? It kept jamming up the conversation!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
