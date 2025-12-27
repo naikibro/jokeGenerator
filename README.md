@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get a job at the circus? He heard they needed someone to juggle the servers!
+Why did the IT technician go to the library? To check out the network of books!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
