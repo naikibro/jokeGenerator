@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a cow with no legs? Ground beef!
+What do you get when you cross a snowman with a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
