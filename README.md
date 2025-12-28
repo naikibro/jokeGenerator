@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the library? To check out the network of books!
+What do you call a cow with no legs? Ground beef!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
