@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one plate say to the other plate? Dinner's on me!
+Why did the physicist put his bed in the middle of the room? Because he wanted to sleep with the lights on.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
