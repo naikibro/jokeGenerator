@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It has too many bugs.
+What did one plate say to the other plate? Dinner's on me!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
