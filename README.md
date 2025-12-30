@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together.
+Why did the biologist bring a ladder to the bar? Because the drinks were on the top shelf.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
