@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snake and a pie? A python!
+Why did the IT technician go to art class? To learn how to draw windows!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
