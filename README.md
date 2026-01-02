@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+How do you catch a unique rabbit? Unique up on it!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
