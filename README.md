@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the white blood cell cross the road? To get to the other side of the bloodstream.
+Why don’t scientists trust atoms? Because they make up everything.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
