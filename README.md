@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+Why did the scarecrow win an award? Because he was outstanding in his field!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
