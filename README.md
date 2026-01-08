@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't oysters donate to charity? Because they're shellfish!
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
