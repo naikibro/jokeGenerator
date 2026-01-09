@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you organize a space party? You planet.
+Why don’t scientists trust atoms? Because they make up everything.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
