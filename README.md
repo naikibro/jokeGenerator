@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don’t scientists trust atoms? Because they make up everything.
+Why don't fish play basketball? Because they're afraid of the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
