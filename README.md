@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't oysters donate to charity? Because they're shellfish!
+Why did the scarecrow win an award? Because he was outstanding in his field.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
