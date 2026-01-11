@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What is the most important rule in chemistry? Never lick the spoon!
+Why was the math book sad? Because it had too many problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
