@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the centrifuge so popular at the party? It knew how to spin things around.
+Why did the IT technician go to the farm? To troubleshoot the root vegetables!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
