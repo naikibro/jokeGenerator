@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken go to the seance? To talk to the other side.
+Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
