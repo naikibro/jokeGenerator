@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+Why did the physicist go to the beach? Because he wanted to test the water!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
