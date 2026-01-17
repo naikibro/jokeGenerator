@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call fake spaghetti? An impasta!
+What do you call a dinosaur with an extensive vocabulary? A thesaurus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
