@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer go broke? Because he used up all his cache.
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
