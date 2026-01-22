@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the white blood cell cross the road? To get to the other side of the bloodstream.
+Why was the IT technician always tired? Because he worked around the clock.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
