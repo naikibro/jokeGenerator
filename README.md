@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the IT technician always tired? Because he worked around the clock.
+Why did the IT technician join the orchestra? He wanted to troubleshoot the symphony!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
