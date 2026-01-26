@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the grape say when the elephant stepped on it? Nothing, it just let out a little wine!
+What do you call a can opener that doesn’t work? A can’t opener!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
