@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+Why don’t scientists trust atoms? Because they make up everything.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
