@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the janitor say when he jumped out of the closet? Supplies!
+Why did the scarecrow win an award? Because he was outstanding in his field.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
