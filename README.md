@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+What do you call a fly without wings? A walk!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
