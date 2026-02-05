@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together.
+What's orange and sounds like a parrot? A carrot.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
