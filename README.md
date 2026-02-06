@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the IT technician always calm? Because he had Ctrl and Alt under control.
+What do you call a pile of cats? A meowtain.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
