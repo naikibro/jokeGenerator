@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow go to outer space? It wanted to see the moooon!
+Why did the chicken join a band? Because it had the drumsticks!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
