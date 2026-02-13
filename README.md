@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
+Why was the math book sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
