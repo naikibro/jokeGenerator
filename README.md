@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the developer go broke? Because he used up all his cache.
+How do you organize a space party? You planet!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
