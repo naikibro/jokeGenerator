@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a boomerang that doesn’t come back? A stick!
+Why did the developer go broke? Because he used up all his cache.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
