@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the restaurant? To troubleshoot the menu!
+Why did the math book look sad? Because it had too many problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
