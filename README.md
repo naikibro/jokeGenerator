@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the math book look sad? Because it had too many problems!
+Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
