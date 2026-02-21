@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a map to work? He didn't want to get lost in the coding wilderness!
+Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
