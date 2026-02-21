@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pig that does karate? A pork chop!
+Why did the IT technician bring a map to work? He didn't want to get lost in the coding wilderness!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
