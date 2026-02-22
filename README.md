@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician break up with his calculator? It didn't add up anymore.
+Why was the math book sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
