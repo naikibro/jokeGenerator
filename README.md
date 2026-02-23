@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? Because it had too many problems!
+Why did the physics professor break up with the biology professor? There was no chemistry.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
