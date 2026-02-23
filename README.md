@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? Because it had too many problems.
+Why did the chicken go to the seance? To talk to the other side.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
