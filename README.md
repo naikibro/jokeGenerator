@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
+What do you call a bear with no teeth? A gummy bear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
