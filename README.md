@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear!
+What do you call a dinosaur with an extensive vocabulary? A thesaurus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
