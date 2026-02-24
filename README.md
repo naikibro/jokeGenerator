@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the physics professor break up with the biology professor? There was no chemistry.
+Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
