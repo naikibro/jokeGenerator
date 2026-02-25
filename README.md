@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a dinosaur with an extensive vocabulary? A thesaurus!
+Why did the IT technician become a plumber? He wanted to troubleshoot the pipes!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
