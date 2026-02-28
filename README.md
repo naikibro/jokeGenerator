@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+Why don't fish play basketball? Because they're afraid of the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
