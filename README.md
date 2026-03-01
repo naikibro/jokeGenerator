@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do biologists like to talk about enzymes? Because they're full of energy!
+Why did the pony get sent to its room? It wouldn't stop horsing around!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
