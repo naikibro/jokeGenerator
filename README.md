@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the pony get sent to its room? It wouldn't stop horsing around!
+Did you hear about the claustrophobic astronaut? He needed space.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
