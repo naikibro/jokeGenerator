@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the proton bring the electron to the party? Because it had a positive charge.
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
