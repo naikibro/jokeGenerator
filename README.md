@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the library? To check out the network of books!
+Why did the bear dissolve in water? Because it was polar.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
