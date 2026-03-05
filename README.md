@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the microbiologist stay home from the party? He had bacterial culture.
+Why did the IT technician go to the beach? To surf the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
