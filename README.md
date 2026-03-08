@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together!
+Why did the pony get sent to its room? It wouldn't stop horsing around!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
