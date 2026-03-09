@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+What is the most important rule in chemistry? Never lick the spoon!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
