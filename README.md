@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a sleeping bull? A bulldozer!
+I told my wife she was drawing her eyebrows too high. She looked surprised.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
