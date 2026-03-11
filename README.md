@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the bicycle stand up by itself? It was two-tired.
+How do you catch a unique rabbit? Unique up on it!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
