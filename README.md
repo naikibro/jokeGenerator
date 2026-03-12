@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a unique rabbit? Unique up on it!
+Why did the IT technician stay away from the ocean? He was afraid of the ethernet shark!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
