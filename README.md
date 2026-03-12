@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician stay away from the ocean? He was afraid of the ethernet shark!
+What do you get when you cross a snowman and a dog? Frostbite.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
