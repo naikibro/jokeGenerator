@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+Why did the IT technician bring a ladder to the bar? He heard the drinks were on the house!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
