@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't oysters donate to charity? Because they're shellfish!
+Why did the IT technician stay away from the ocean? He was afraid of the ethernet shark!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
