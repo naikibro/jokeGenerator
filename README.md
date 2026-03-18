@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the horse go behind the tree? To change its jockeys!
+What's a cow's favorite musical note? Beef flat!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
