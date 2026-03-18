@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a fish with no eyes? Fsh.
+What did one plate say to the other plate? Dinner's on me!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
