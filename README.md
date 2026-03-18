@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's a cow's favorite musical note? Beef flat!
+What do you call a fish with no eyes? Fsh.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
