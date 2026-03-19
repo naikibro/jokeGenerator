@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken go to the seance? To talk to the other side.
+Did you hear about the fire at the circus? It was in tents.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
