@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bear dissolve in water? Because it was polar.
+What is the most important rule in chemistry? Never lick the spoon!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
