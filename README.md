@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the restaurant? To troubleshoot the menu!
+Why can't you trust an atom? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
