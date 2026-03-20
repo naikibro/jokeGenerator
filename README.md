@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why can't you trust an atom? Because they make up everything!
+Why did the bear dissolve in water? Because it was polar.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
