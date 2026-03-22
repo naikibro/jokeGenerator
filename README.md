@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese!
+Why did the IT technician become a gardener? He wanted to debug the plants!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
