@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a gardener? He wanted to debug the plants!
+Why did the IT technician always carry a USB drive? In case he needed to save the day!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
