@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+Why did the IT technician become a pilot? He wanted to troubleshoot the flight plan!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
