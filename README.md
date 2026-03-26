@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the golfer bring two pairs of pants? In case he got a hole in one!
+Why did the cow go to outer space? It wanted to see the moooon!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
