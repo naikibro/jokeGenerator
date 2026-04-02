@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get a job at the bakery? He wanted to troubleshoot the dough-licious pastries!
+Why did the programmer go broke? Because he used up all his cache.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
