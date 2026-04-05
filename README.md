@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician sit on the clock? He wanted to be on time!
+How does a penguin build its house? Igloos it together!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
