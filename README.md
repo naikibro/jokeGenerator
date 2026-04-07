@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the scarecrow win an award? Because he was outstanding in his field.
+How do you catch a squirrel? Climb a tree and act like a nut!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
