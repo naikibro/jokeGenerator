@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did the janitor say when he jumped out of the closet? Supplies!
+Why did the IT technician get promoted? Because he knew how to CTRL his career!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
