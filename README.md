@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get promoted? Because he knew how to CTRL his career!
+Why did the spider go on the computer? It was searching the web!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
