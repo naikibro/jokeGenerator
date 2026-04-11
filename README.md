@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a dog? Frostbite.
+What do you call a pig that does karate? A pork chop!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
