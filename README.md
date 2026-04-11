@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pig that does karate? A pork chop!
+What do you call a fly without wings? A walk!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
