@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a comedian? He wanted to debug people's laughter!
+What do you call a fly without wings? A walk!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
