@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you make a tissue dance? You put a little boogie in it!
+What do you call a tooth in a glass of water? A one molar solution.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
