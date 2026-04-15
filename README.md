@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the astronaut break up with her boyfriend? Because he needed space.
+Why did the IT technician go to the doctor? He had a case of the computer virus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
