@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why do bananas have to put on sunscreen? Because they peel!
+Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
