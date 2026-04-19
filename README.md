@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a gardener? He wanted to debug the plants!
+What did the janitor say when he jumped out of the closet? Supplies!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
