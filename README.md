@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the spider go on the computer? It was searching the web!
+Why did the developer go broke? Because he used up all his cache.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
