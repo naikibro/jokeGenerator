@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't ants get sick? Because they have tiny ant-bodies!
+What do you get if you cross a cat with a dark horse? Kitty Perry!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
