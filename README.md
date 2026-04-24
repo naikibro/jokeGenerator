@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How does a penguin build its house? Igloos it together.
+Why did the cow become an artist? Because it wanted to draw pasture!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
