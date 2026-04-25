@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It has too many bugs.
+Why did the chicken sit on the clock? Because it wanted to be on time!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
