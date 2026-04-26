@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
