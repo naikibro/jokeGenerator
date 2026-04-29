@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the bicycle stand up by itself? It was two-tired.
+What do you call a deer with no eyes? No eye-deer!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
