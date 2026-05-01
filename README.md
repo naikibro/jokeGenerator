@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one plate say to the other plate? Dinner is on me!
+What do you call a pile of cats? A meowtain.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
