@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a pile of cats? A meowtain.
+Why did the IT technician become a magician? He wanted to troubleshoot the disappearing acts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
