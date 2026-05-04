@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's a cow's favorite musical note? Beef flat!
+I'm reading a book on anti-gravity. It's impossible to put down!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
