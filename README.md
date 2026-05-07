@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow go to outer space? It wanted to see the moooon!
+Why did the IT technician become a gardener? He wanted to debug the plants!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
