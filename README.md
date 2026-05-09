@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer quit his job? Because he didn't get arrays.
+Why did the proton bring the electron to the party? Because it had a positive charge.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
