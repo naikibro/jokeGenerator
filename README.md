@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cookie go to the doctor? Because it was feeling crumbly.
+What do you call cheese that isn't yours? Nacho cheese.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
