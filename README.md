@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call cheese that isn't yours? Nacho cheese.
+What do you call a sleeping bull? A bulldozer!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
