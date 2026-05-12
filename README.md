@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don’t scientists trust atoms? Because they make up everything.
+I'm reading a book on anti-gravity. It's impossible to put down!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
