@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cookie go to the hospital? Because he felt crummy.
+Why was the math book sad? It had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
