@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the microbiologist stay home from the party? He had bacterial culture.
+What do you get when you cross a snowman and a vampire? Frostbite!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
