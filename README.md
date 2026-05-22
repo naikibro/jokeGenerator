@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken join a band? Because it had the drumsticks!
+Why don't programmers like nature? It has too many bugs.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
