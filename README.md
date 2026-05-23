@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a fish with no eyes? Fsh.
+Why did the microbiologist stay home from the party? He had bacterial culture.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
