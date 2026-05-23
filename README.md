@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the microbiologist stay home from the party? He had bacterial culture.
+Why did the white blood cell cross the road? To get to the other side of the bloodstream.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
