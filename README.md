@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the scarecrow win an award? Because he was outstanding in his field.
+How does a penguin build its house? Igloos it together.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
