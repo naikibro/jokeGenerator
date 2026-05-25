@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer go broke? Because he used up all his cache.
+Why did the IT technician get into a fight with his TV? It kept changing the channel!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
