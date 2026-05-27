@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear.
+Why was the mole of oxygen molecules excited when he walked out of the singles bar? He got Avogadro's number!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
