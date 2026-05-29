@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow become an artist? Because it wanted to draw pasture!
+Why did the IT technician bring a hammer to work? He heard there was a hardware problem!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
