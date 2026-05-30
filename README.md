@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician bring a hammer to work? He heard there was a hardware problem!
+Why did the IT technician become a detective? He wanted to solve the case of the missing files!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
