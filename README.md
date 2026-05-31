@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a can opener that doesn’t work? A can’t opener!
+Why did the programmer quit his job? Because he didn't get arrays.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
