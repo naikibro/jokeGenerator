@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer quit his job? Because he didn't get arrays.
+Why did the bacteria cross the microscope? To get to the other slide.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
