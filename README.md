@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman with a dog? Frostbite.
+Why did the cookie go to the doctor? Because it was feeling crumbly.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
