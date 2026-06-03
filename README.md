@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What's orange and sounds like a parrot? A carrot.
+Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
