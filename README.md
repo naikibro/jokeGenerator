@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't crabs give to charity? Because they're shellfish!
+What’s brown and sticky? A stick!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
