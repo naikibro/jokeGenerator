@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't seagulls fly over the bay? Because then they'd be called bagels!
+Why did the IT technician become a pilot? He wanted to troubleshoot the flight plan!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
