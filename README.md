@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call fake spaghetti? An impasta!
+Why don't crabs give to charity? Because they're shellfish!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
