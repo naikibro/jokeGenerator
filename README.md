@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a pilot? He wanted to troubleshoot the flight plan!
+What do you call fake spaghetti? An impasta!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
