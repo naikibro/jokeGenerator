@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't crabs give to charity? Because they're shellfish!
+Why did the microbiologist stay home from the party? He had bacterial culture.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
