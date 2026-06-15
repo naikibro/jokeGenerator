@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the turtle cross the road? To get to the shell station!
+Why did the chicken join a band? Because it had the drumsticks!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
