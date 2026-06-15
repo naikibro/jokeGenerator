@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you get when you cross a snowman and a vampire? Frostbite.
+Why did the turtle cross the road? To get to the shell station!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
