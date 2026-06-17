@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't plants play hide and seek? Because they always leaf too soon.
+Why was the math book sad? Because it had too many problems.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
