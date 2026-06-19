@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the chicken join a band? Because it had the drumsticks!
+Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
