@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+Why was the bee's hair always messy? It kept buzzing!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
