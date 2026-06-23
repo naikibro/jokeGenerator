@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the centrifuge so popular at the party? It knew how to spin things around.
+Why did the microbiologist stay home from the party? He had bacterial culture.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
