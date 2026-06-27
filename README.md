@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts.
+What do you call an alligator in a vest? An investigator.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
