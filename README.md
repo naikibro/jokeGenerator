@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a gardener? He wanted to debug the plants!
+Why did the IT technician go to the doctor? He had a case of the byte-me virus!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
