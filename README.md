@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't seagulls fly over the bay? Because then they'd be called bagels!
+Why did the scarecrow win an award? Because he was outstanding in his field.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
