@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a sleeping bull? A bulldozer!
+Why don't seagulls fly over the bay? Because then they'd be called bagels!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
