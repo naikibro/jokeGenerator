@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't programmers like nature? It's hard to Ctrl-S.
+I told my wife she was drawing her eyebrows too high. She looked surprised.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
