@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the library? To check out the network of books!
+Why did the scarecrow win an award? Because he was outstanding in his field!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
