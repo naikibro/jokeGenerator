@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+Why did the cow go to outer space? It wanted to see the moooon!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
