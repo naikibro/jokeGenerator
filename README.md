@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a plumber? He wanted to troubleshoot the pipes!
+Why did the IT technician go to space? He heard there was a problem with the satellites!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
