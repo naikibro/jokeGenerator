@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the bear dissolve in water? Because it was polar.
+What do you call a bear with no teeth? A gummy bear.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
