@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to space? He heard there was a problem with the satellites!
+Why did the bear dissolve in water? Because it was polar.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
