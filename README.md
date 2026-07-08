@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the centrifuge so popular at the party? It knew how to spin things around.
+What did one wall say to the other wall? "I'll meet you at the corner."
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
