@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a plumber? He wanted to troubleshoot the pipes!
+Why did the IT technician become a lifeguard? He wanted to troubleshoot the pool of problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
