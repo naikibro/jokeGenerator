@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a lifeguard? He wanted to troubleshoot the pool of problems!
+Why was the IT technician always calm? Because he had Ctrl and Alt under control.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
