@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't oysters donate to charity? Because they're shellfish!
+What did one plate say to the other plate? Dinner's on me!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
