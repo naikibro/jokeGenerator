@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a sheep with no legs? A cloud!
+What do you call a cow with no legs? Ground beef!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
