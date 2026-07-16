@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What did one plate say to the other plate? Dinner's on me!
+Why did the IT technician become a lifeguard? He wanted to troubleshoot the pool of problems!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
