@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+What did one plate say to the other plate? Dinner's on me!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
