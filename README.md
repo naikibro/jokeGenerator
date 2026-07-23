@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a gardener? He wanted to debug the plants!
+What do you call a snowman with a six-pack? An abdominal snowman.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
