@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a snowman with a six-pack? An abdominal snowman.
+What do you call cheese that isn't yours? Nacho cheese.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
