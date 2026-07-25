@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+Why did the bacteria cross the microscope? To get to the other slide.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
