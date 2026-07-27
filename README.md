@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the programmer go broke? Because he used up all his cache.
+Why don't programmers like nature? It's hard to Ctrl-S.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
