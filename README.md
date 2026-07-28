@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+Why did the photon check into a hotel? Because it was traveling light.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
