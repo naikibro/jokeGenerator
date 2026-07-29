@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cat sit on the computer? To keep an eye on the mouse!
+Why did the cookie go to the doctor? Because it was feeling crumbly.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
