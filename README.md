@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why couldn't the leopard play hide and seek? Because he was always spotted.
+Why did the IT technician get into a fight with his TV? It kept changing the channel!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
