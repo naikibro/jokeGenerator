@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get into a fight with his TV? It kept changing the channel!
+Why did the proton bring the electron to the party? Because it had a positive charge.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
