@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the proton bring the electron to the party? Because it had a positive charge.
+Why did the IT technician get a job at the zoo? He heard they needed someone to debug the monkey business!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
