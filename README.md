@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the microbiologist stay home from the party? He had bacterial culture.
+Why do bananas have to put on sunscreen? Because they peel!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
