@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Did you hear about the fire at the circus? It was in tents.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
