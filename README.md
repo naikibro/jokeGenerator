@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Did you hear about the fire at the circus? It was in tents.
+What's orange and sounds like a parrot? A carrot.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
