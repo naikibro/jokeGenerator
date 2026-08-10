@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What do you call a bear with no teeth? A gummy bear!
+I told my wife she was drawing her eyebrows too high. She looked surprised.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
