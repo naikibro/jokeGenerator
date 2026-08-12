@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the computer keep its drinks on the floor? Because it didn't have enough bytes.
+How do you catch a squirrel? Climb a tree and act like a nut!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
