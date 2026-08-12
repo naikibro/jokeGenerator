@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a plumber? He wanted to troubleshoot the pipes!
+Why did the IT technician always carry a broom? To clean up his cache!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
