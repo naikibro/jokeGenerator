@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the horse go behind the tree? To change its jockeys!
+Why don't skeletons fight each other? They don't have the guts!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
