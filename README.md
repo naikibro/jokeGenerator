@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a squirrel? Climb a tree and act like a nut!
+Why did the horse go behind the tree? To change its jockeys!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
