@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't scientists trust atoms? Because they make up everything!
+Why did the IT technician go to the beach? To surf the net!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
