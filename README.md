@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-How do you catch a squirrel? Climb a tree and act like a nut!
+Why was the centrifuge so popular at the party? It knew how to spin things around.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
