@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't skeletons fight each other? They don't have the guts!
+Why couldn't the bicycle stand up by itself? It was two-tired.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
