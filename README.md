@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't crabs give to charity? Because they're shellfish!
+Why couldn't the leopard play hide and seek? Because he was always spotted.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
