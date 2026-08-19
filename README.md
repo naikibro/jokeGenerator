@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What is the most important rule in chemistry? Never lick the spoon!
+What do you call a can opener that doesn’t work? A can’t opener!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
