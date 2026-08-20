@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician go to the doctor? He had a case of the computer virus!
+I'm reading a book on anti-gravity. It's impossible to put down!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
