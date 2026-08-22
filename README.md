@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a comedian? He wanted to debug people's laughter!
+Why did the IT technician bring a ladder to work? Because he heard the server was on the cloud!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
