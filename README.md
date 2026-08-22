@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why don't crabs give to charity? Because they're shellfish!
+Why don’t skeletons fight each other? They don’t have the guts.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
