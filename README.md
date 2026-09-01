@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get kicked out of the art gallery? He tried to upgrade the paintings!
+Why did the IT technician become a pilot? He wanted to troubleshoot the flight plan!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
