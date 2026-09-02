@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the whale cross the ocean? To get to the other tide!
+Why did the cow go to outer space? It wanted to see the moooon!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
