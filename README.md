@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician join the orchestra? He wanted to troubleshoot the symphony!
+Why don't scientists trust atoms? Because they make up everything!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
