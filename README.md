@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a comedian? He wanted to debug people's laughter!
+How many IT technicians does it take to change a light bulb? None, that's a hardware issue.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
