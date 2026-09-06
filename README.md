@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why was the math book sad? It had too many problems.
+Why did the cow become an artist? Because it wanted to draw pasture!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
