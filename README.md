@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow become an artist? Because it wanted to draw pasture!
+What do you call fake spaghetti? An impasta.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
