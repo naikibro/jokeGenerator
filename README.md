@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-What does a cloud wear under his raincoat? Thunderwear!
+Why was the belt arrested? For holding up a pair of pants.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
