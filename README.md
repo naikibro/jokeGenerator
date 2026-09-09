@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the tomato turn red? Because it saw the salad dressing!
+What does a cloud wear under his raincoat? Thunderwear!
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
