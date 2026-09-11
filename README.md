@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the cow become an artist? Because it wanted to draw pasture!
+Why was the JavaScript developer sad? Because he didn't know how to "null" his feelings.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
