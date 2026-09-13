@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician become a detective? He wanted to solve the case of the missing files!
+Why don't plants play hide and seek? Because they always leaf too soon.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
