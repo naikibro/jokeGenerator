@@ -1,7 +1,7 @@
 # Today's joke is
 
 ```
-Why did the IT technician get a job at the circus? He heard they needed someone to juggle the servers!
+How do you organize a space party? You planet.
 ```
 
 ![lmao gif](docs/assets/images/lmao.gif)
